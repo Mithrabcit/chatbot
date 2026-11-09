@@ -1,0 +1,3203 @@
+
+--- CHUNK 1 ---
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 1 
+ 
+ 
+TAMIL NADU ELECTRICITY REGULATORY 
+COMMISSION  
+ 
+ 
+Determination of Tariff for Distribution for  
+FY 2025-26 
+ 
+ 
+Suo-motu Order No.6 of 2025 dated 30-06-2025 
+(effective from 01-07-2025) 
+ 
+ 
+  
+
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 2 
+TAMIL NADU ELECTRICITY REGULATORY COMMISSION  
+(Constituted under Section 82(1) of Electricity Act, 2003)  
+(Central Act 36 of 2003)  
+PRESENT  
+ThiruR.Manivannan – Chairman 
+ThiruK.Venkatesan– Member 
+ThiruB.Mohan– Member (Legal) 
+  
+Suo-motu Order No.6 of 2025dated 30-06-2025 
+ 
+In the matter of: Determination of Tariff for distribution for FY 2025-26 
+In exercise of powers conferred by sub -section (1)(a) of Section 62 and Clauses (a) of sub -
+section (1) of Section 86 of the Electricity Act , 2003 (Central Act 36 of 2003) and all other 
+
+--- CHUNK 2 ---
+Y 2025-26 
+In exercise of powers conferred by sub -section (1)(a) of Section 62 and Clauses (a) of sub -
+section (1) of Section 86 of the Electricity Act , 2003 (Central Act 36 of 2003) and all other 
+powers hereunto enabling in that behalf, the Tamil Nadu Electri city Regulatory Commission 
+(Commission) hereby passes this Order for Determination of Tariff for distribution for 
+FY2025-26.   
+This Order shall take effect on and from 01st July, 2025. 
+  
+ 
+  Sd/-             Sd/- Sd/- 
+(B.Mohan) 
+Member (Legal) 
+(K.Venkatesan) 
+Member 
+(R.Manivannan) 
+ Chairman 
+   
+(By Order of the Commission) 
+       
+ 
+ 
+ 
+ 
+
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 3 
+ 
+ 
+LIST OF ABBREVIATIONS  
+ARR Aggregate Revenue Requirement 
+FY   Financial Year  
+G.O.   Government Order  
+GoTN Government of Tamil Nadu  
+HT   High Tension  
+kWh   kilo-Watt hour  
+LT   Low Tension  
+MU   Million Units  
+MW   Mega-Watt  
+MYT   Multi-Y
+
+--- CHUNK 3 ---
+ement 
+FY   Financial Year  
+G.O.   Government Order  
+GoTN Government of Tamil Nadu  
+HT   High Tension  
+kWh   kilo-Watt hour  
+LT   Low Tension  
+MU   Million Units  
+MW   Mega-Watt  
+MYT   Multi-Year Tariff  
+NTI   Non-Tariff Income  
+PF   Power Factor  
+PLF   Plant Load Factor  
+SLDC   State Load Despatch Centre  
+T&D   Transmission & Distribution  
+TANGEDCO   Tamil Nadu Generation and Distribution Corporation Ltd.  
+TANTRANSCO   Tamil Nadu Transmission Corporation Ltd.  
+TNEB   Tamil Nadu Electricity Board  
+TNERC   Tamil Nadu Electricity Regulatory Commission  
+TNGECL Tamil Nadu GreenEnergy Corporation Ltd.  
+TNPDCL Tamil Nadu Power Distribution Corporation Ltd.  
+TNPGCL Tamil Nadu PowerGeneration Corporation Ltd.  
+ToD Time of Day  
+TP   Tariff Policy  
+ 
+  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 4 
+Table of contents 
+ 
+1 INTRODUCTION .............................................................
+
+--- CHUNK 4 ---
+bution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 4 
+Table of contents 
+ 
+1 INTRODUCTION ................................................................................................................. 5 
+1.1 Preamble .............................................................................................................................. 5 
+1.2 The Electricity Act, 2003, Tariff Policy and Regulations ................................................... 6 
+1.3 Past Tariff Orders ................................................................................................................. 9 
+1.4 Procedure Adopted............................................................................................................. 10 
+1.5 Applicability of Order ........................................................................................................ 10 
+1.6 Layout of the Order ..................................................
+
+--- CHUNK 5 ---
+ability of Order ........................................................................................................ 10 
+1.6 Layout of the Order ............................................................................................................ 10 
+2 METHODOLOGY ADOPTED FOR TARIFF REVISION ........................................... 11 
+2.1 Background ........................................................................................................................ 11 
+2.2 Applicable rate of Inflation ................................................................................................ 13 
+2.3 Existing and New Tariff..................................................................................................... 14 
+2.4 Other Charges .................................................................................................................... 19 
+3 TARIFF SCHEDULE ...................................................................................
+
+--- CHUNK 6 ---
+.............................................................................................. 19 
+3 TARIFF SCHEDULE ......................................................................................................... 21 
+3.1 Tariff for High Tension Supply Consumers ...................................................................... 21 
+3.2 Tariff for Low Tension Supply Consumers ....................................................................... 32 
+4 NEW DIRECTIVES ............................................................................................................ 53 
+4.1 Fresh Directives ................................................................................................................. 53 
+ 
+  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 5 
+1 INTRODUCTION 
+1.1 PREAMBLE 
+1.1.1 Consequent to the enactment of the Electricity Regulatory Commissions Act, 1998 
+(Central Act 14 
+
+--- CHUNK 7 ---
+ff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 5 
+1 INTRODUCTION 
+1.1 PREAMBLE 
+1.1.1 Consequent to the enactment of the Electricity Regulatory Commissions Act, 1998 
+(Central Act 14 of 1998), the Government of Tamil Nadu (GoTN) constituted the Tamil 
+Nadu Electricity Regulatory Commission (TNERC or Commission) vide G.O.Ms. 
+No.58, Energy (A1) Department, dated March 17, 1999.  
+1.1.2 The Commission issued its first Tariff Order under Section 29 of the Electricity 
+Regulatory Commissions Act, 1998, on 15 -03-2003 based on the Petition filed by the 
+erstwhile Tamil Nadu Electricity Board (TNEB) on September 25, 2002.   
+1.1.3 The Electricity Regulatory Commissions Act, 1998 was repealed and the Electricity 
+Act, 2003 (Central Act 36 of 2003) (hereina fter referred as “the EA, 2003” or “the 
+Act”) was enacted with effect from June 10, 2003.  
+1.1.4 The Commission notified the Tamil Nadu Electricity Regulatory Commission (Terms 
+and Conditions for Determination of Tariff)
+
+--- CHUNK 8 ---
+A, 2003” or “the 
+Act”) was enacted with effect from June 10, 2003.  
+1.1.4 The Commission notified the Tamil Nadu Electricity Regulatory Commission (Terms 
+and Conditions for Determination of Tariff) Regulations, 2005 (herein after called 
+TNERC (Terms and Conditions for Determination of Tariff) Regulations , 2005 ) on 
+August 3, 2005, under Section 61 read with Section 181 of the Act.  
+1.1.5 The Commission issued its first Order (Order No. 2 of 2006) on Transmission Charges, 
+Wheeling Charges, Cross Su bsidy Surcharge (CSS) and Additional Surcharge on May 
+15, 2006, based on the Petition filed by the erstwhile TNEB on September 26, 2005, 
+under Section 42 of the Act.  
+1.1.6 The Commission notified the TNERC (Terms and Conditions for Determination of 
+Tariff for I ntra-State Transmission/Distribution of Electricity under MYT Framework) 
+Regulations, 2009 (herein after called MYT Regulations) on February 11, 2009.  
+1.1.7 Subsequently, TNEB filed an Application for determination of A
+
+--- CHUNK 9 ---
+n/Distribution of Electricity under MYT Framework) 
+Regulations, 2009 (herein after called MYT Regulations) on February 11, 2009.  
+1.1.7 Subsequently, TNEB filed an Application for determination of Aggregate Revenue 
+Requirement (ARR) with Ta riff for all functions on January 18, 2010, which was 
+admitted by the Commission after initial scrutiny on February 9, 2010. The 
+Commission issued its second Retail Tariff Order on July 31, 2010 (Order No. 3 of 
+2010). 
+1.1.8 The erstwhile TNEB was formed as a sta tutory body by GoTN on July 1, 1957, under 
+the Electricity (Supply) Act, 1948. TNEB was primarily responsible for generation, 
+transmission, distribution and supply of electricity in the State of Tamil Nadu.  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 6 
+1.1.9 GoTN, vide G.O (Ms.) No. 114 Energy Department, dated October 8, 2008 accorded in 
+principle approval for the re -organisation of TNEB by establis
+
+--- CHUNK 10 ---
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 6 
+1.1.9 GoTN, vide G.O (Ms.) No. 114 Energy Department, dated October 8, 2008 accorded in 
+principle approval for the re -organisation of TNEB by establishment of a holding 
+company, namely TNEB Ltd. and two subsidiary companies, namely Tamil Nadu 
+Transmission Corporation Ltd.  (TANTANSCO) and Tamil Nadu Generation  and 
+Distribution Corporation Ltd. (hereinafter referred as TANGEDCO  or the Petitioner ) 
+with the stipulation that the aforementioned Companies shall be fully owned by the 
+Government.  
+1.1.10 GoTN vide G.O.Ms.No.6 dated 24 -01-2024 and G.O.Ms.No.7 dated 24 -01-2024 
+notified demerger of TANGEDCO into TNPGCL and TNGECL.  GoTN vide 
+G.O.Ms.No.32 dated 06 -03-2024 has notified transfer scheme from TANGEDCO to 
+these two newly formed companies.  In sequence,  Registrar of Companies / Ministry of 
+Corporate Affairs has approved change of name from Tamil Nadu Generation and 
+Distribution Corporation Limited ( TANGEDCO) to Tamil N
+
+--- CHUNK 11 ---
+ed companies.  In sequence,  Registrar of Companies / Ministry of 
+Corporate Affairs has approved change of name from Tamil Nadu Generation and 
+Distribution Corporation Limited ( TANGEDCO) to Tamil Nadu Power Distribution 
+Corporation Limited (TNPDCL) on    27-06-2024.  
+1.1.11 Since, the relev ant materials of this order relates to Tamil Nadu Power Distribution 
+Corporation Limited (TNPDCL) , the tariff order is issued to Tamil Nadu Power 
+Distribution Corporation Limited (TNPDCL). 
+1.2 THE ELECTRICITY ACT,  2003, TARIFF POLICY AND 
+REGULATIONS 
+1.2.1 Section 61 of the Electricity Act, 2003 (hereinafter referred to as the E lectricity Act, 
+2003 or the Act) stipulates the guiding principles for determination of Tariff by the 
+Commission and mandates that the Tariff should „progressively reflect cost of supply of 
+electricity‟, „reduce cross-subsidy‟, „safeguard consumer interest‟ and „recover the cost 
+of electricity in a reasonable manner‟.   
+“Section-62 (1): 
+1. The Appropriate Co
+
+--- CHUNK 12 ---
+reflect cost of supply of 
+electricity‟, „reduce cross-subsidy‟, „safeguard consumer interest‟ and „recover the cost 
+of electricity in a reasonable manner‟.   
+“Section-62 (1): 
+1. The Appropriate Commission shall determine the tariff in accordance 
+with provisions of this Act for  
+a. supply of electricity by a generating company to a distribution licensee: 
+…;  
+b. transmission of electricity;  
+c. wheeling of electricity;  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 7 
+d. retail sale of electricity.  
+...”  
+1.2.2 TNERC notified its TNERC (Terms and Conditions for Determination of Tariff) 
+Regulations, 2005 specify the factors that will guide the Commission in determination 
+of Tariff, the relevant extract of which is reproduced below:  
+“4.  Tariff setting principles 
+The Commission, while determining the tariff, shall be guided by the 
+following factors:-   
+ (i)   The guidelines outlined in Section 6
+
+--- CHUNK 13 ---
+of which is reproduced below:  
+“4.  Tariff setting principles 
+The Commission, while determining the tariff, shall be guided by the 
+following factors:-   
+ (i)   The guidelines outlined in Section 61 of the Act …  
+“The Appropriate Commission shall, subject to the provisions of this Act, 
+specify the terms and conditions for the determination of tariff, and in 
+doing so, shall be guided by the following, namely:-  
+(a) the principles and methodologies specified by the Central 
+Commission for determination of the tariff applicable to 
+generating companies and transmission licensees;   
+(b) the generation, transmission, distribution and supply of electricity 
+are conducted on commercial principles;  
+(c) the factors which would encourage competition, efficiency, 
+economical use of the resources, good performance and optimum 
+investments;  
+(d) safeguarding of consumers’ interest and at the same time, 
+recovery of the cost of electricity in a reasonable manner;  
+… … … 
+(ii) Rationalisa
+
+--- CHUNK 14 ---
+urces, good performance and optimum 
+investments;  
+(d) safeguarding of consumers’ interest and at the same time, 
+recovery of the cost of electricity in a reasonable manner;  
+… … … 
+(ii) Rationalisation of tariff  
+… … …”  
+1.2.3 Relevant Provisions of Tamil Nadu Electricity Supply Code : Regulation 4(i -a) charges 
+recoverable by the Licensee  
+"(i-a) The wheeling charges / Network charges. shall be pa yable by the HT / LT 
+consumer category in accordancewith the rates as the Commission may fix time to time 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 8 
+for different category of consumers (to recover the cost incurred  by the Licensee for its 
+Distribution wire business). 
+Provided that the Wheeling charges / Network charges may be denominated in terms of 
+Rs.kWh (or) Rs.kVAh (or)Rs./kW/month (or)Rs./kVA/month for the purpose of recovery 
+from the Distribution network user, or any such denomination  as m
+
+--- CHUNK 15 ---
+/ Network charges may be denominated in terms of 
+Rs.kWh (or) Rs.kVAh (or)Rs./kW/month (or)Rs./kVA/month for the purpose of recovery 
+from the Distribution network user, or any such denomination  as may be stipulated by 
+the Commission." 
+1.2.4 The Tariff Policy notified by Govt. of India on January 28, 2016, specifies the 
+following objectives:  
+“The objectives of this tariff policy are to:  
+(a) Ensure availability of electricity to consumers at reasonable and 
+competitive rates;  
+(b) Ensure financial viability of the sector and attract investments;  
+(c) Promote transparency, consistency and predictability in 
+regulatory approaches across jurisdictions and minimize 
+perceptions of regulatory risks;  
+(d) Promote competition, efficiency in operations and improvement in 
+quality of supply;  
+(e) Promote generation of electricity from Renewable sources;  
+(f) Promote Hydroelectric Power generation including Pumped 
+Storage Projects (PSP) to provide adequate peaking reser ves, 
+reliab
+
+--- CHUNK 16 ---
+ly;  
+(e) Promote generation of electricity from Renewable sources;  
+(f) Promote Hydroelectric Power generation including Pumped 
+Storage Projects (PSP) to provide adequate peaking reser ves, 
+reliable grid operation and integration of variable renewable 
+energy sources;  
+(g) Evolve a dynamic and robust electricity infrastructure for better 
+consumer services;  
+(h) Facilitate supply of adequate and uninterrupted power to all 
+categories of consumers;  
+(i) Ensure creation of adequate capacity including reserves in 
+generation, transmission and distribution in advance, for 
+reliability of supply of electricity to consumers.” 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 9 
+1.3 PAST TARIFF ORDERS 
+1.3.1 TANGEDCO was incorporated on December 1, 2009 and started function ing as such 
+with effect from November 1, 2010. 
+1.3.2 Subsequent to the filing of Tariff Petitions by TANGEDCO for determination of retail
+
+--- CHUNK 17 ---
+CO was incorporated on December 1, 2009 and started function ing as such 
+with effect from November 1, 2010. 
+1.3.2 Subsequent to the filing of Tariff Petitions by TANGEDCO for determination of retail 
+supply tariff for FY 2012-13, the Commission scrutinized and reviewed the same. After 
+a thorough review, the third Order  (Order. No. 1 of 2012) of the Commission on 
+Retail Supply Tariff, Wheeling Charges and other related charges was passed on March 
+30, 2012.  
+1.3.3 TANGEDCO filed the Tariff Petition for determination of tariff for Generation and 
+Distribution for FY 2013 -14, which was scrutinized and reviewed by the Commission. 
+Based on this Petition and after considering views of the State Advisory Committee and 
+the public, the Commission passed the fourth Order on June 20, 2013.  
+1.3.4 TANGEDCO did not file the ARR and Tariff Petition for  FY 2014 -15 before the 
+Commission. In the absence of Tariff Petition, the Commission initiated a suo -motu 
+proceeding for determination 
+
+--- CHUNK 18 ---
+
+1.3.4 TANGEDCO did not file the ARR and Tariff Petition for  FY 2014 -15 before the 
+Commission. In the absence of Tariff Petition, the Commission initiated a suo -motu 
+proceeding for determination of tariff in accordance with Section 64 of EA 2003. After 
+thorough review of the available information, the Commission pa ssed the fifth Order 
+on December 11, 2014.     
+1.3.5 In 2017, TANGEDCO has filed the Petition for final truing up of FY 2011 -12 to FY 
+2015-16, determination of Multi Year ARR for FY 2016 -17 to FY 2018 -19 and 
+determination of Retail Tariff for FY 2017 -18. The pet ition was scrutinized and 
+reviewed, and the Commission passed the sixth Order on August 11, 2017. 
+1.3.6 In 2022, TANGEDCO has filed the Petition for Approval of True Up for the period 
+from FY 2016-17 to FY 2020-21 and Annual Performance Review for the FY 2021 -22; 
+Approval of Aggregate Revenue Requirement for the period from FY 2022 -23 to FY 
+2026-27 and Determination of Tariff for generation and d
+
+--- CHUNK 19 ---
+FY 2020-21 and Annual Performance Review for the FY 2021 -22; 
+Approval of Aggregate Revenue Requirement for the period from FY 2022 -23 to FY 
+2026-27 and Determination of Tariff for generation and distribution for FY 2022 -23 to 
+FY 2026-27. The petition was scrutinized and reviewed, and the Commission passed 
+the seventh Order(T.O.No.7 of 2022)onSeptember 09, 2022. In that order, along with 
+determination of tariff  for FY 2022 -23, the Commission has also approved a 
+methodology for Consumer Price Inflation (CPI) linked tariff revision for FY 2023 -24 
+to FY 2026-27. 
+1.3.7 Based on the methodology specified in the Tariff Order T.O.No.7 of 2022 dated 09-09-
+2022,ie.,Consumer Pr ice Inflation (CPI) linked tariff revision for FY 2023 -24 to FY 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 10 
+2026-27, the Commission passed the  eighth Order (Suo-Motu Tariff Order No.6 No.6 
+of 2023) on June 30, 2023  and ni
+
+--- CHUNK 20 ---
+td.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 10 
+2026-27, the Commission passed the  eighth Order (Suo-Motu Tariff Order No.6 No.6 
+of 2023) on June 30, 2023  and ninth Order (Suo-Motu Tariff Order No.6 of 2024) on 
+July 15, 2024.  
+1.3.8 Based on the previous order, and the methodology specified in that order, the 
+Commission hereby passes the Suo-Motu Order on tariff for TNPDCL (erstwhile 
+TANGEDCO) for FY 2025-26. 
+1.4 PROCEDURE ADOPTED 
+1.4.1 All procedures relating to public notice, taking views of State Advisory Committee and 
+public hearing has been completed as part of the larger proceedings undertaken in 2022. 
+Therefore, the current order deals with only implementation of the CPI linked tar iff 
+revision, which was approved in the year 2022 order, this order is being issued 
+forthwith.  
+1.5 APPLICABILITY OF ORDER 
+1.5.1 This Order will come into effect from 01stJuly 202 5. The Tariffs and other Charges 
+determined in this Order will be vali
+
+--- CHUNK 21 ---
+r, this order is being issued 
+forthwith.  
+1.5 APPLICABILITY OF ORDER 
+1.5.1 This Order will come into effect from 01stJuly 202 5. The Tariffs and other Charges 
+determined in this Order will be valid until issue of the next Order.  
+1.5.2 As the prayer of TNPDCL (erstwhile TANGEDCO) for CPI based revision of tariff 
+from 01 st July of remaining years in the control period is granted, TN PDCL shall 
+ensure to pay relevant tariff determination fees as per TNERC Fees and Fines 
+Regulations, 2022 before 30th June, 2026 for the FY 2026 -27, the last financial year in 
+the current control period. 
+1.6 LAYOUT OF THE ORDER 
+This Order is organized into following Chapters:  
+a. Chapter 1 provides introduction; 
+b. Chapter 2 provides a brief of methodology adopted for CPI linked tariff revision; 
+c. Chapter 3 provide Tariff Schedule applicable for the consumers for FY 2025-26; 
+d. Chapter 4provides details of the Directives of  the Commission for compliance by 
+TNPDCL. 
+  
+Tamil Nadu Power Dis
+
+--- CHUNK 22 ---
+c. Chapter 3 provide Tariff Schedule applicable for the consumers for FY 2025-26; 
+d. Chapter 4provides details of the Directives of  the Commission for compliance by 
+TNPDCL. 
+  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 11 
+2 METHODOLOGY ADOPTED FOR 
+TARIFF REVISION 
+ 
+2.1 BACKGROUND 
+2.1.1 In the Tariff Order  No.7 of 2022  for TNPDCL (erstwhile TANGEDCO) , the 
+Commission has stated the following methodology for revision of tariff for the 
+remaining years of the Control Period: 
+“5.1.2 An inflation indexed approach is approved for the tariff, 
+considering the annual increases in Average Cost of Supply. Looking at 
+past trends, the general Consumer Price Inflation (CPI) index  seems to 
+be a convenient fit, as the past annual CPI inflation rates are in the range 
+of 4.9 -6.3%, between 2018 and 2022. It is also to be noted that 
+irrespective of CPI inflation, actual annual increase is capped to 6%. 
+5.1.
+
+--- CHUNK 23 ---
+ as the past annual CPI inflation rates are in the range 
+of 4.9 -6.3%, between 2018 and 2022. It is also to be noted that 
+irrespective of CPI inflation, actual annual increase is capped to 6%. 
+5.1.3 The Commission shall adopt CPI index of April 2023  compared 
+with CPI index of April 2022  to arrive at the escalation rate OR 6% 
+whichever is lower and revise the tariff schedule. Similar process shall be 
+continued for the remaining years of control period. ” 
+2.1.2 Further, for the consequent control period of FY 202 5-26, the CPI index of April 202 5 
+compared with CPI Index of April 202 4 has to be accounted to arrive at the escalated 
+rate or 6%, whichever is lower and revise the tariff schedule.  
+2.1.3 Accordingly, the escalation rate of consumer price index for the period from April 2024 
+to April 2025 has been accounted and the percentage of increase arrived at 3.16% (as 
+detailed in the Table No.1)  is taken as base for revision of tariff with effect from 1st of 
+July 2025. 
+
+--- CHUNK 24 ---
+il 2024 
+to April 2025 has been accounted and the percentage of increase arrived at 3.16% (as 
+detailed in the Table No.1)  is taken as base for revision of tariff with effect from 1st of 
+July 2025. The Government of Tamil Nadu, vide Lr.No.4097/D3/2025 dt: 30 -06-2025 
+and Letter No.5434/D3/2024 dt: 04 -12-2024 iss ued policy directive to provide 
+compensation of revenue loss to TNPDCL on account of the increase on existing 
+subsidy from 01-07-2025 onwards in addition to the existing subsidy.   In continuation 
+to the above, the Government has also committed the following: 
+a) To consider the Consumers‟ Price Index (CPI) escalation rate for FY 
+2025-26 for subsidy hike in all subsidy categories of consumers. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 12 
+b) To exempt the following categories of consumers from the tariff 
+increase for one year and undertake to compensate TNPDCL for the revenue 
+loss apart 
+
+--- CHUNK 25 ---
+ERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 12 
+b) To exempt the following categories of consumers from the tariff 
+increase for one year and undertake to compensate TNPDCL for the revenue 
+loss apart from subsidy being extended at present. 
+ No tariff hike to the Domestic consumers (LT IA) 
+ No tariff hike to the Cottage and Tiny Industries consumers [LT3A(1)] 
+ No tariff hike to the Power loom consumers [LT IIIA(2)] 
+ No tariff hike to the Industries consumers up to 50kW (LT IIIB) 
+ No hike in energy charges up to 500 units bimonthly for 
+Miscellaneous/General purpose consumers (LT V). 
+The inflation of tariff for the ensuing year 2026-27 shall be based on formula stipulated 
+under para 6.1.1.13 and para 6.2.1 (m) of the Tariff Order No.7 of 2022 dated 
+09.09.2022. 
+2.1.4 EV Charging Infrastructure 
+2.1.4.1 The Commission has determined the tariff for EV charging, vide para 6.1.7 and 6.2.16 
+of the T.O.No.7 of 2022  initially for the FY 2023 -24 enabling to adopt the emerging 
+sc
+
+--- CHUNK 26 ---
+ Infrastructure 
+2.1.4.1 The Commission has determined the tariff for EV charging, vide para 6.1.7 and 6.2.16 
+of the T.O.No.7 of 2022  initially for the FY 2023 -24 enabling to adopt the emerging 
+scenario in tariff and revise according to the prevailing policy of Government in futur e. 
+In accordance with the Para 5.1.2 of the Tamil Nadu Electric Vehicle Policy 2023, 
+Commission, re-determined the tariff for the supply to EV charging facility in the Tariff 
+Order for FY 2023 -24 in such a way to incentivize the EV usage and to decrease th e 
+cost of operation. 
+2.1.4.2 In consonance with the para 5.1.2 of the Tamil Nadu Electric Vehicle Policy 2023 
+demand charges is reduced by 50% for the year 2025-26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 13 
+2.2 APPLICABLE RATE OF INFLATION 
+2.2.1 The Commission hereby applies the following rate of escalation, based on CPI and cap 
+of 6%: 
+T
+
+--- CHUNK 27 ---
+Order, 2025  
+ 
+TNERC – T.O.No.6 of 2025, Dt.30-06-2025 Page 13 
+2.2 APPLICABLE RATE OF INFLATION 
+2.2.1 The Commission hereby applies the following rate of escalation, based on CPI and cap 
+of 6%: 
+Table 1: Applicable rate of tariff escalation 
+Particulars Unit Number Reference 
+CPI (General) Index for 
+April 2024 
+- 186.7 Ministry of Statistics and Programme  
+Implementation (MoSPI, Govt. of India) - 
+Consumer Price Index Numbers on Base 
+2012 =100 for Rural, Urban and Combined 
+for the months of A pril 2024 and April 
+2025 
+CPI (General) Index for 
+April 2025 
+- 192.6 
+CPI Inflation from April 
+2024 to April 2025 
+% (192.6-
+186.70)/ 
+186.70 = 
+3.16% 
+Maximum allowed 
+escalation 
+% 6% TNPDCL (erstwhile TANGEDCO)  Tariff 
+Order 2022 
+Escalation applied on tariff 
+for FY 2025-26 
+% 3.16% MINIMUM of CPI Inflation rate or 6% 
+ 
+2.2.2 Thus, the rate of 3.16 % is applied to both energy charges and fixed charges, to arrive at 
+the new Tariff Schedule as below:  
+{Prevailing Tariff x [1+(CPI
+
+--- CHUNK 28 ---
+INIMUM of CPI Inflation rate or 6% 
+ 
+2.2.2 Thus, the rate of 3.16 % is applied to both energy charges and fixed charges, to arrive at 
+the new Tariff Schedule as below:  
+{Prevailing Tariff x [1+(CPI of April of respective financial year - CPI of April of 
+previous financial year) / CPI of April of previous financial year]}
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 14 
+2.3 EXISTING AND NEW TARIFF 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Existing Tariff    - FY 2024-25 
+(Suo-Motu T.O.6 / 2024) Approved Tariff  from 1st July, 2025 
+Energy Charges Fixed Charges Energy Charges Fixed Charges 
+Low Tension Consumers     
+LT – IA# Domestic, Multi-tenements, Old age homes, Handlooms (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-400 kWh 
+N.A. 
+4.80 
+- 
+4.95 
+- 
+ 401-500 kWh 6.45 6.65 
+ 501-600 kWh 8.55 8.80 
+ 601-800 kWh 9.65 9.95 
+ 801-1000 kW
+
+--- CHUNK 29 ---
+s (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-400 kWh 
+N.A. 
+4.80 
+- 
+4.95 
+- 
+ 401-500 kWh 6.45 6.65 
+ 501-600 kWh 8.55 8.80 
+ 601-800 kWh 9.65 9.95 
+ 801-1000 kWh 10.70 11.05 
+ above 1000 kWh 11.80 12.15 
+       LT – IB# Huts (Rs./unit) (Rs./ Service/month) (Rs./unit) (Rs./ Service/month) 
+ Single Slab Tariff      
+ 
+Till installation of Energy 
+Meter  - 322.00 - 332.00 
+ 
+On Installation of Energy 
+Meter  9.80 - 10.10 - 
+       LT – IC Bulk supply (single point metering) (Rs./unit) (Rs./ Service/month) (Rs./unit) (Rs./ Service/month) 
+ Single Slab Tariff  8.55 107.00 8.80 110.00 
+       LT – ID Common facilities in Multi-tenements (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Single Slab Tariff  8.55 107.00 8.80 110.00 
+       
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 15 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Exi
+
+--- CHUNK 30 ---
+adu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 15 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Existing Tariff    - FY 2024-25 
+(Suo-Motu T.O.6 / 2024) Approved Tariff  from 1st July, 2025 
+Energy Charges Fixed Charges Energy Charges Fixed Charges 
+LT – IE# Common facilities in Multi-tenements (Residential <=3 floors without lift facility) (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Single Slab Tariff  8.55 107.00 8.80 110.00 
+       LT – IIA Public Lighting, Water Supply provided by Govt./Local bodies (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Single Slab Tariff  8.55 107.00 8.80 110.00 
+       
+LT - IIB (1) 
+Government Educational Institutions its Hostel, 
+Govt. Hospital, Other hospitals rendering totally 
+free service 
+(Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+  0-50 kW 8.55 107.00 8.80 110.00 
+  Above 50-112 kW 8.55 348.00 8.80 3
+
+--- CHUNK 31 ---
+l, 
+Govt. Hospital, Other hospitals rendering totally 
+free service 
+(Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+  0-50 kW 8.55 107.00 8.80 110.00 
+  Above 50-112 kW 8.55 348.00 8.80 359.00 
+  Above 112 kW 8.55 589.00 8.80 608.00 
+       
+LT - IIB (2) Private Educational Institutions/Hostel, Segregated Private Medical college (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+  0-50 kW 9.10 107.00 9.40 110.00 
+  Above 50-112 kW 9.10 348.00 9.40 359.00 
+  Above 112 kW 9.10 589.00 9.40 608.00 
+       LT - IIC# Actual places of public worship (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-120kWh  6.20 107.00 6.40 110.00 
+ Above 120kWh  7.50 7.75 
+       
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 16 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Existing Tariff    - FY 2024-25 
+(Suo-Motu T.O.6 / 2024) Approved Tariff  fro
+
+--- CHUNK 32 ---
+RC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 16 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Existing Tariff    - FY 2024-25 
+(Suo-Motu T.O.6 / 2024) Approved Tariff  from 1st July, 2025 
+Energy Charges Fixed Charges Energy Charges Fixed Charges 
+LT - IIIA(1) # Cottage & Micro Industries (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-500kWh  4.80 75.00 4.95 77.00 
+ Above 500kWh  6.95 7.15 
+       LT - IIIA(2)# Power looms (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-500kWh  6.95 
+107.00 
+7.15 
+110.00  501-1000kWh  8.00 8.25 
+ 1001-1500kWh  8.00 8.25 
+ above 1500kWh  8.00 8.25 
+       LT - IIIB# Industries and IT services (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+  0-50 kW 8.00 81.00 8.25 84.00 
+  Above 50-112 kW 8.00 160.00 8.25 165.00 
+  Above 112 kW 8.00 589.00 8.25 608.00 
+       LT – IV# Agriculture and allied activities (Rs./unit) (Rs. / HP / annum) (Rs./unit) (Rs.
+
+--- CHUNK 33 ---
+.00 81.00 8.25 84.00 
+  Above 50-112 kW 8.00 160.00 8.25 165.00 
+  Above 112 kW 8.00 589.00 8.25 608.00 
+       LT – IV# Agriculture and allied activities (Rs./unit) (Rs. / HP / annum) (Rs./unit) (Rs. / HP / annum) 
+ Single Slab Tariff Load in HP     
+ 
+Till installation of Energy 
+Meter  - 3,805.00 - 3,925.00 
+ 
+On Installation of Energy 
+Meter  4.80 - 4.95 - 
+       
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 17 
+Consumer 
+category 
+Slabs for Energy 
+Charges Slabs for Fixed Charge 
+Existing Tariff    - FY 2024-25 
+(Suo-Motu T.O.6 / 2024) Approved Tariff  from 1st July, 2025 
+Energy Charges Fixed Charges Energy Charges Fixed Charges 
+LT – V# Miscellaneous / General purpose (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-100 units 0-50 kW 6.45 107.00 6.65 110.00 
+Above 50-112 kW 322.00 332.00 
+ 
+Above 100 units (for all 
+units) 10.15 10.45 Above 112 kW 589.00 608.00 
+
+
+--- CHUNK 34 ---
+(Rs./unit) (Rs. / kW/ month) 
+ Bi-monthly      
+ 0-100 units 0-50 kW 6.45 107.00 6.65 110.00 
+Above 50-112 kW 322.00 332.00 
+ 
+Above 100 units (for all 
+units) 10.15 10.45 Above 112 kW 589.00 608.00 
+       LT – VI Construction activities and Temporary purposes (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW / month) 
+ Single Slab Tariff  12.85 589.00 13.25 608.00 
+       LT – VII EV Charging Stations (Rs./unit) (Rs. / kW / month) (Rs./unit) (Rs. / kW/ month) 
+ Time Slot in Hours      
+ 
+06:00 to 09:00 hrs. and   
+18:00 to 22:00 hrs 0-50 kW 9.45 26.00 9.75 55.00 
+ 09.00 to 16.00 hrs Above 50-112 kW 6.30 79.00 6.50 165.00 
+ 
+16:00 to 18:00 hrs and   
+22.00 to 06.00 hrs Above 112 kW 7.85 145.00 8.10 304.00 
+ 
+#LT- IA, IB, IE, IIC, IIIA(1), IIIA(2), IIIB, IV and V to be partly/fully subsidized by the Government 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 18 
+Consumer 
+category Slabs 
+Existing Tar
+
+--- CHUNK 35 ---
+ized by the Government 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+ 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025       Page 18 
+Consumer 
+category Slabs 
+Existing Tariff - FY 2024-25                                    
+(Suo-Motu T.O. 6 / 2024) Approved Tariff   from 1st July, 2025 
+Energy Charges Demand Charges Energy Charges Demand Charges 
+High Tension Consumers     
+HT – I Industries, Factories, IT services (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 7.25 589.00 7.50 608.00 
+      HT – IIA## Govt. Edu. Institutions/Hospital, Railway 
+Traction, CMRL, Lift Irrigation Societies, 
+etc., 
+(Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 7.50 589.00 7.75 608.00 
+      HT – IIB Private Edu. Institutions & its hostels, 
+segregated Medical Colleges (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 8.00 589.00 8.25 608.00 
+      HT – III Miscellaneous categories (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (
+
+--- CHUNK 36 ---
+segregated Medical Colleges (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 8.00 589.00 8.25 608.00 
+      HT – III Miscellaneous categories (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 9.10 589.00 9.40 608.00 
+      HT – IV Construction activities and other Temp. 
+purposes (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Tariff 12.85 589.00 13.25 608.00 
+       HT – V EV Charging Stations (Rs./kWh) (Rs. /kVA / month) (Rs./kWh) (Rs. /kVA / month) 
+ Time Slot in Hours      06:00 to 09:00 hrs and 
+18:00 to 22:00 hrs 9.45 
+145.00 
+9.75 
+304.00  09.00 to 16.00 hrs 6.30 6.50 
+ 16:00 to 18:00 hrs and 
+22.00 to 06.00 hrs 7.85 8.10 
+## HT- IIA-Lift Irrigation Societies to be fully subsidized by the Government
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 19 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+2.4 OTHER CHARGES 
+2.4.1 All other charges such as Wheeling / Network charges, Cross Subsidy Surcharge, etc., 
+
+--- CHUNK 37 ---
+tion Ltd.(TNPDCL) Tariff Order, 2025  
+Page 19 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+2.4 OTHER CHARGES 
+2.4.1 All other charges such as Wheeling / Network charges, Cross Subsidy Surcharge, etc.,  
+for FY 2025 -26 are determined based on values mentioned in Para 5.24& 5.26 of the 
+Tariff Order No.7 of 2022 dated 09-09-2022, effective from 01stJuly 2025. 
+2.4.2 The details of approved Wheeling/Network charges, Cross Subsidy Surcharges  are as 
+below-. 
+Approved Wheeling / Network charges:- 
+Particulars Unit FY 2025-26 
+Apportioned network cost  
+HT Rs. Crore 10,210.46 
+LT Rs. Crore 4,375.91 
+Total Rs. Crore 14,586.37 
+HT Sales ratio 20.11% 
+Proportionate network cost 
+for HT Rs. Crore 2,052.82 
+Remaining network cost for 
+LT Rs. Crore 12,533.55 
+Energy sent through  
+HT MU 19,690.00 
+LT MU 78,245.53 
+Total MU 97,935.53 
+Wheeling/Network Charges  
+HT Rs./kWh 1.04 
+LT Rs./kWh 1.60 
+Overall  1.49 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Pag
+
+--- CHUNK 38 ---
+ MU 78,245.53 
+Total MU 97,935.53 
+Wheeling/Network Charges  
+HT Rs./kWh 1.04 
+LT Rs./kWh 1.60 
+Overall  1.49 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 20 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+Approved Cross subsidy surcharge for  FY 2025-26 (T.O.No.7 of 2022):- 
+Particulars 
+ABR C C / (1-L%) D R CSS* 
+Rs./kWh Rs./kWh Rs./kWh Rs./kWh Rs./kWh Rs./kWh 
+HT Sales        
+HT IA: HT-Industry  9.96 4.98 5.38 1.04 0 1.99 
+HT IIA: Govt. educational 
+institute  10.93 4.98 5.38 1.04 0 2.19 
+HT IIB: Pvt Educational 
+Institute  12.28 4.98 5.38 1.04 0 2.46 
+HT III & V - HT 
+Miscellaneous / EV 
+Charging  
+12.87 4.98 5.38 1.04 0 2.57 
+HT IV - Temporary Supply  17.52 4.98 5.38 1.04 0 3.50 
+ *The CSS is capped at 20% of the Tariff as per Tariff Policy formula.  
+ 
+  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 21 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3 TARIFF SCHEDULE 
+3.1 TARIFF FOR HIGH TENSION SUPPLY CONS
+
+--- CHUNK 39 ---
+ormula.  
+ 
+  
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 21 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3 TARIFF SCHEDULE 
+3.1 TARIFF FOR HIGH TENSION SUPPLY CONSUMERS 
+3.1.1 General Provisions applicable for High Tension Supply 
+3.1.1.1 Categories of supply:  The categories of supply are as specified in the Tamil Nadu 
+Electricity Distribution Code and Tamil Nadu Electricity Supply Code. The HT tariff 
+specified for different categories of HT consumers are also applicable to the consumers 
+who are supplied at EHT level in accordance with above said Codes. 
+3.1.1.2 Current Harmonic control: 
+a. The CEA has amended the (Technical Standards for Connectivity to the Grid), 
+Regulation 2007 vide (Technical standards for connectivity to the Grid) 
+(Amendment) Regulations  2019, mandati ng compliance of IEEE 519 -2014 
+standards in regard to limit of Harmonics, methodology of measurement of 
+Harmonics and other related matters. 
+b. The CEA has also amende
+
+--- CHUNK 40 ---
+) Regulations  2019, mandati ng compliance of IEEE 519 -2014 
+standards in regard to limit of Harmonics, methodology of measurement of 
+Harmonics and other related matters. 
+b. The CEA has also amended the (Technical Standards for Connectivity of the 
+Distributed Generation Resources) Regulat ions, 2013 vide (Technical 
+Standards for Connectivity of the Distributed Generation Resources) 
+Regulations, 2019, substituting the words “Connectivity below 33kilovolts” in 
+place of “Connectivity of the Distributed Generation Resources”  applicable to 
+the generating companies or persons owning distributed generation resources, 
+charging stations, prosumers or persons who are connected to or seeking 
+connectivity with the electrical system below 33kV voltage level, mandating 
+harmonic control in accordance with IEEE519-2014. 
+c. In order to comply with the provisions of above CEA Regulations, the 
+Commission has notified amendments in Tamil Nadu Electricity Supply Code 
+stipulating harmonic lim
+
+--- CHUNK 41 ---
+cordance with IEEE519-2014. 
+c. In order to comply with the provisions of above CEA Regulations, the 
+Commission has notified amendments in Tamil Nadu Electricity Supply Code 
+stipulating harmonic limits, Methodology of measurements, Meter standards, 
+measures for non-compliance etc., to be statutorily followed by the applicable 
+consumers/ prosumers/charging stations to control harmonic pollution in the 
+grid and ensure quality of supply to all consumers. 
+3.1.1.3 In case of supply under HT Tariff, except for HT Lift irrigation under Ta riff II (A) and 
+Temporary supply HT Tariff -IV supply used for creating facilities for the compliance 
+of Acts/Laws or for the facilities incidental to the main purpose of the establishment of 
+the consumer, such as facilities extended to their employees/stud ents/patients/residents 
+as the case may be, within  the  premises  of  the  consumer,  shall  be  considered  to  
+be  bona -fide purpose, irr espective of whether they are outsourced to a third
+
+--- CHUNK 42 ---
+stud ents/patients/residents 
+as the case may be, within  the  premises  of  the  consumer,  shall  be  considered  to  
+be  bona -fide purpose, irr espective of whether they are outsourced to a third party or 
+provided by the consumer himself. Also, the consumption  for ancillary to the main 
+purpose such as storage of Raw material, finished product, etc., shall be considered to 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 22 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+be bona-fide purpose for which the supply of electricity is authorised. However, if such 
+facilities are extended to the public, or if part/fu ll premises are leased/rented out to a  
+commercial servic e provider like food  outlets present in food court, which provide 
+service in their own name, the energy consumption to such facilities shall be metered 
+by the Licensee separately and only the energy c harged under appropriate LT tariff. 
+Such metered energy consumption shall be deduc
+
+--- CHUNK 43 ---
+n name, the energy consumption to such facilities shall be metered 
+by the Licensee separately and only the energy c harged under appropriate LT tariff. 
+Such metered energy consumption shall be deducted from the total energy consumption 
+registered in the main meter of the HT/EHT supply for billing. 
+3.1.1.4 In case of supply under HT Tariff I, II (A), II(B), III the use of electricity for residential 
+quarters, within the premises, shall be metered separately by the Licensee at single 
+point of supply, if opted by the consumer and only the energy so consumed shall be 
+charged under LT Tariff IC. Such metered consumption shall be dedu cted from the 
+total consumption registered in the main meter of the HT/EHT supply for billing. 
+3.1.1.5 In case of HT supply under I, II(A), II(B), III the supply used for any additional 
+construction of building within the consumer‟s premises not exceeding 2000 squ are 
+feet may be allowed from the existing service and charged under the existing tariff
+
+--- CHUNK 44 ---
+ supply used for any additional 
+construction of building within the consumer‟s premises not exceeding 2000 squ are 
+feet may be allowed from the existing service and charged under the existing tariff. The 
+use of electricity for the additional construction beyond 2000 square feet and lavish 
+illumination (as defined under LT tariff VI) shall be metered separately by t he licensee 
+and only the energy shall be charged under LT Tariff VI. Such metered energy 
+consumption shall be deducted from the total consumption registered in the main meter 
+of the HT/EHT supply for billing 
+3.1.1.6 Low Power Factor Compensation:  In respect of High -Tension service connections 
+the average power factor of the consumers installation shall not be less than 0.90. 
+Where the average power factor of High -Tension service connection is less than the 
+stipulated limit of 0.90, the following compensation charges will be levied. 
+Particulars Power Factor compensation charges 
+Below 0.90 and up to 
+0.85 
+One 
+
+--- CHUNK 45 ---
+nsion service connection is less than the 
+stipulated limit of 0.90, the following compensation charges will be levied. 
+Particulars Power Factor compensation charges 
+Below 0.90 and up to 
+0.85 
+One percent of the current consumption charges for 
+every reduction of 0.01 in power factor from 0.90 
+Below 0.85 to 0.75 One and half percent of the current consumption charges for every reduction of 0.01 in power factor 
+from 0.90 
+Below 0.75 Two percent of the current consumption charges for every reduction of 0.01 in power factor from 0.90 
+ 
+3.1.1.7 Billable Demand: In case of HT Consumers, maximum Demand Charges for any 
+month will be levied on the kVA demand actually recorded in that month or 90% of the 
+contracted demand, whichever is higher. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 23 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+Provided that  whenever  the  restriction  and  control  measures  are  in  force,  the 
+billable demand in case of two
+
+--- CHUNK 46 ---
+(TNPDCL) Tariff Order, 2025  
+Page 23 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+Provided that  whenever  the  restriction  and  control  measures  are  in  force,  the 
+billable demand in case of two -part tariff for any month will be the actual recorded 
+maximum demand or 90% of demand quota, as fixed from time to time through 
+restriction and control measures, whichever is higher. 
+3.1.1.8 In case of all HT consumers, the integration period for arriving at the maximum 
+demand in a month will be fifteen minutes. 
+3.1.1.9 All HT consumers except  HT-IIA (Lift Irrigation), HT -IV and HT -V (e -vehicle CS)  
+shall be billed at 25% extra for FY 2022 -23 to FY 2026 -27 on the energy charges for 
+the energy recorded during peak hours. The duration  of peak hours shall be morning  
+6.00A.M to 10.00 A.M and evening 6.00 P.M to 10.00 P.M. 
+3.1.1.10 All HT consumers except  HT-IIA(Lift Irrigation ), HT-IV and HT V (E -vehicle CS) 
+shall be allowed a reduction of 5% on the energy charges for th
+
+--- CHUNK 47 ---
+0.00 A.M and evening 6.00 P.M to 10.00 P.M. 
+3.1.1.10 All HT consumers except  HT-IIA(Lift Irrigation ), HT-IV and HT V (E -vehicle CS) 
+shall be allowed a reduction of 5% on the energy charges for the consumption recorded 
+during 10.00 P.M to 5.00 A.M as an incentive for night consumption. 
+3.1.1.11 In case the electricity supplied under HT Tariff I, II(A), II(B) and  III, is u sed for 
+charging of electrical vehicles by a consumer within his premises the same is permitted 
+to be charged in the existing tariff. 
+3.1.1.12 In case of consumers under HT Tariff I, II(A), II(B), III and V request for Green 
+Energy Consumption certificate, the same  shall be charged at 110% of approved tariff 
+of the respective category duly adhering to the procedure specified in the Commission‟s 
+Order in M.P.11 of 2023 dated 25.04.2023. 
+3.1.1.13 The applicable tariff for ensuing year of control period shall be as per prevailing tariff x 
+(1+(CPI of April of respective financial year – CPI of April of pre
+
+--- CHUNK 48 ---
+11 of 2023 dated 25.04.2023. 
+3.1.1.13 The applicable tariff for ensuing year of control period shall be as per prevailing tariff x 
+(1+(CPI of April of respective financial year – CPI of April of previous financial year)/ 
+CPI of April of previous financial year) or 6% whichever is lower with effect from 1st 
+July of respective financial year. 
+3.1.1.14 Electricity Duty/Tax on Electric ity shall be levied in addition to the tariffs approved 
+by the Commission, and in accordance with the Government of Tamil Nadu 
+stipulations from time to time. The rate and the reference number of the Government 
+Resolution/ Order under which the Electricity Dut y/Tax on Electricity are applied shall 
+be stated in the consumers energy bills. A copy of such Resolution / Order shall be 
+hosted in the Distribution Licensee‟s website. 
+3.1.1.15 Start-up power provided to generators – As decided by  the Commission  in the 
+Orderdt.29.12.2023 in T.A.No.13 of 2012 and batch cases,  
+1. The Generators who do n
+
+--- CHUNK 49 ---
+ution Licensee‟s website. 
+3.1.1.15 Start-up power provided to generators – As decided by  the Commission  in the 
+Orderdt.29.12.2023 in T.A.No.13 of 2012 and batch cases,  
+1. The Generators who do not need start -up power shall not be billed under start -up 
+category. 
+2. The Industries who avail regular industrial supply for their use and also have Co - 
+generating/Generating plants  within their premises, normally use the existing 
+Contracted/sanctioned demand itself for purpose of start -up power. They are classified 
+under regular Industrial Tariff. If the above categories of consumers are having any 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 24 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+Power purchase agreements in place , then the tariff mentioned and agreed in the PPA 
+shall be followed till expiry of PPA. After expiry of the PPA period the prevailing tariff 
+orders shall be followed. These Industries shall pay full demand charges for the
+
+--- CHUNK 50 ---
+oned and agreed in the PPA 
+shall be followed till expiry of PPA. After expiry of the PPA period the prevailing tariff 
+orders shall be followed. These Industries shall pay full demand charges for the entire 
+period. 
+3. The Generators who want supply only for start-up purpose being temporary in nature 
+shall be charged under temporary supply category only. Such generators‟ requirement 
+being temporary in nature, the Demand equated energy charges are fixed at the rate of 
+125 percent of temp orary supply energy charges as specified in tariff order prevailing 
+from time to time. 
+(This tariff with respect to start -up power is  subject to the outcome of RA .No.05 of 
+2024) 
+3.1.2 High Tension Tariff I: (Industries, Factories, Information Technology 
+Services) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy charge in Paise per 
+kWh (Unit) 
+High Tension Tariff I 608 750 
+ 
+For FY 2026-27 
+The applicable tariff (both fix
+
+--- CHUNK 51 ---
+y 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy charge in Paise per 
+kWh (Unit) 
+High Tension Tariff I 608 750 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge)  for FY 202 5-26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1.2.1 This Tariff is applicable to: 
+i. All manufacturing and industrial establishments and registered factories  
+ii. This tariff is also applicable for Tea Estates, Textiles, Fertilizer Plants, Steel 
+Plants, Heavy Water Plants, Chemical plants, Industrial Workshops, Private 
+Milk dairies, Rice Mills , Roller Flour Mills, News Papers Printing Press, Ice & 
+Ice-cream manufacturing units, Tanneries, Hatcheries, Poultry Farm, 
+Floriculture, Poly House / Green House,  Hybrid Seeds processing units, 
+Centralised preparation units of Food / sweets / bakery shop s (provided sa
+
+--- CHUNK 52 ---
+turing units, Tanneries, Hatcheries, Poultry Farm, 
+Floriculture, Poly House / Green House,  Hybrid Seeds processing units, 
+Centralised preparation units of Food / sweets / bakery shop s (provided sales 
+counter is physically & electrically segregated & billed under respective HT -
+III/LT-V category), Packaging Units, Drug manufacturing units, Garment 
+manufacturing units, Tyre retreading units, petroleum pipeline projects, Piggery 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 25 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+farms, An alytical Lab for analysis of ore metals, Saw Mills, Toy/wood 
+industries, Satellite communication centres, Mineral water processing plants  
+attached with drinking water,  Mineral water bottling plants and Solid Waste 
+Processing Plant, concrete mixture (Read y Mix Concrete) units, Cutting of 
+larger pipes and sheets into smaller one, Pumping of Oil and Gas units, RO 
+plants Sea/hard water conversion done by Private / on 
+
+--- CHUNK 53 ---
+sing Plant, concrete mixture (Read y Mix Concrete) units, Cutting of 
+larger pipes and sheets into smaller one, Pumping of Oil and Gas units, RO 
+plants Sea/hard water conversion done by Private / on behalf of CMWSS Board 
+under Design Build and Operate (DBO), Tamil Nadu State Transport 
+Corporation repair and Workshop and maintenance, Sericulture, Floriculture, 
+Horticulture, Mushroom  cultivation, cattle farming, Poultry & Bird farming and 
+Fish/prawn/shrimp culture, Battery charging units. 
+iii. Common effluent treatment plants, Industrial estate‟s water treatment/ supply 
+works; 
+iv. Cold storage units; 
+v. This tariff is also applicable to the Research & Development Centre/Lab 
+attached therein to the activities mentioned under (i) to (iv) above. 
+3.1.2.2 This tariff is also applicable to Information Technology servic es as defined in the ICT 
+Policy 2008 of Government of Tamil Nadu. The definition is reproduced below: 
+“IT services are broadly defined as systems integration, proc
+
+--- CHUNK 54 ---
+e to Information Technology servic es as defined in the ICT 
+Policy 2008 of Government of Tamil Nadu. The definition is reproduced below: 
+“IT services are broadly defined as systems integration, processing 
+services, information services outsourcing, packaged software support 
+and installation, hardware support and installation.” 
+Information Technology Services includes: 
+(i) Systems integration includes: 
+a. Network Management Services 
+b. Applications Integration 
+(ii) Processing services includes: 
+a. Outsourced Services in Banking, HR, finance, Technology and 
+other areas like Data Centres. 
+b. Outsourced Back office support or Business transformation and 
+Process Consulting Services. 
+(iii)Information Services Outsourcing includes: 
+a. Outsourced Global Information Support Services 
+b. Knowledge Process Outsourcing 
+c. Outsourced Global Contact Centre Operations 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 26 
+TNERC – T.O.No. 6 of 2025, Dt.30
+
+--- CHUNK 55 ---
+
+b. Knowledge Process Outsourcing 
+c. Outsourced Global Contact Centre Operations 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 26 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+d. Outsourced Process Consulting Services. 
+(iv) Packaged Software Support and Installation includes: 
+a. Software Design and Development, Support and Maintenance 
+b. Application installation, support and maintenance 
+c. Application testing. 
+(v) Hardware Support and Installation includes: 
+a. Technical and network operations support 
+b. Hardware installation, administration and management 
+c. Hardware infrastructure maintenance and support 
+3.1.2.3 This tariff is also applicable to Aeronautical services provided by the Airports under 
+Airports Authority of India. The Non -Aeronautical services provided shall be 
+categorised under HT III / LT V Commercial / Miscellaneous category. 
+3.1.3 High Tension Tariff II (A): (Government Educational Institutions  / 
+Hospitals, Railway Tract
+
+--- CHUNK 56 ---
+al services provided shall be 
+categorised under HT III / LT V Commercial / Miscellaneous category. 
+3.1.3 High Tension Tariff II (A): (Government Educational Institutions  / 
+Hospitals, Railway Traction, CMRL, Lift Irrigation Societies, etc.,) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy Charge in Paise 
+per kWh (Unit) 
+High Tension Tariff II (A)* 608 775 
+  
+* To be fully subsidised by the Government for Lift Irrigation Societies 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para  6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1.3.1 This tariff is applicable for the following services under the control of Central/State 
+Governments / Local Bodies/ TWAD Board/ CMWSSB: 
+(i) Educational institutions including government aided educational institu
+
+--- CHUNK 57 ---
+s applicable for the following services under the control of Central/State 
+Governments / Local Bodies/ TWAD Board/ CMWSSB: 
+(i) Educational institutions including government aided educational institutions 
+and Hostels. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 27 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+(ii) Establishments of  Ministry  of  Defence  and   CRPF  (viz., Teaching & 
+Training Institutes, Hostels, Mess, Residential colonies, office, etc.,) 
+(iii) Hospitals,   Primary   Health   Centres   and   Health   Sub -Centres,   
+Veterinary Hospitals, Leprosy Centres and Sub-Centres.  
+(iv) Public Water Works and sewerage works and Desalination plants. 
+(v) Central Prisons and other Prisons of the State Government. 
+(vi) Public Lighting and Electric crematorium, cemetery, burial grounds of all 
+religions. 
+(vii) Public Libraries, Art Galleries and Museums. 
+(viii) Research Laboratories and institutions 
+(ix) Dairy units 
+(x) Stadiums maintain
+
+--- CHUNK 58 ---
+ric crematorium, cemetery, burial grounds of all 
+religions. 
+(vii) Public Libraries, Art Galleries and Museums. 
+(viii) Research Laboratories and institutions 
+(ix) Dairy units 
+(x) Stadiums maintained by Government / Local Bodies 
+ 
+3.1.3.2 This tariff is also applicable to the following: 
+(i) Residential colonies and Housing complexes, Senior citizen communities and 
+its common supply used for common lighting, water supply, lift. 
+(ii) Hospitals and Rehabilitation Centres, Rehabilitation and Training Centres, 
+Old Age Homes and Orphanages run by Private/Charitable trusts which offer 
+totally free treatment/services for all categories of patients/inmates on par 
+with Government hospitals and institutions. 
+(iii) Desalination plant at Kudankulam Nuclear Power Plant and Minjur 
+Desalination plant of Chennai Water Desalination Ltd., Water Supply Works 
+by new Tirupur Area Development Corporation as long as they supply 
+drinking water predominantly to local bodies/public. 
+(iv) Single po
+
+--- CHUNK 59 ---
+n plant of Chennai Water Desalination Ltd., Water Supply Works 
+by new Tirupur Area Development Corporation as long as they supply 
+drinking water predominantly to local bodies/public. 
+(iv) Single point supply to Cooperative group housing society and for the 
+residential p urpose of the employees as specified in “The Electricity 
+(Removal of difficulties) Eighth Order 2005”. 
+(v) Actual places of public worship as defined under the Places of Worship 
+(Special Provisions) Act 1991 viz., Temple, Mosque, Gurudwara, Church, 
+Monastery o r any other place of Public religious worship of any religious 
+denomination or any section thereof, by whatever name called. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 28 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.1.3.3 This tariff is also applicable to: 
+a) Railway traction of Indian/Southern Railways, Metro Railways, MRTS 
+b) All the connected loads of CM RL. Loads other than CMRL like ATM, 
+Kiosks, stalls, hotel
+
+--- CHUNK 60 ---
+3 This tariff is also applicable to: 
+a) Railway traction of Indian/Southern Railways, Metro Railways, MRTS 
+b) All the connected loads of CM RL. Loads other than CMRL like ATM, 
+Kiosks, stalls, hotels, etc. which are operated by third parties of private 
+agencies shall be separately metered and charged under applicable LT 
+miscellaneous category and the above consumption shall be deducted from 
+the total energy consumption recorded in the main meter at the CMRL‟s 
+point of supply. 
+3.1.3.4 This tariff is applicable to Lift Irrigation Societies for Agriculture registered under Co -
+operative Societies Act or under any other Act for only pumping water from potent ial 
+water sources to the agricultural fields of its members  (To be fully subsided by 
+Government). 
+3.1.3.5 Hospitals accredited by „National Accreditation Board for Hospitals and Health care 
+providers‟ (NABH) situated in Rural areas (Village / Town Panchayats) 
+3.1.4 High Tension Tariff II (B): (Private Educational Institut
+
+--- CHUNK 61 ---
+d by „National Accreditation Board for Hospitals and Health care 
+providers‟ (NABH) situated in Rural areas (Village / Town Panchayats) 
+3.1.4 High Tension Tariff II (B): (Private Educational Institutions & its 
+hostels, segregated Medical colleges) 
+For FY 2025-26- 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy charge in Paise 
+per kWh (Unit) 
+High Tension Tariff II (B) 608 825 
+ 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. 
+The revision will be effective from 01st July of 2026 of the control period. 
+3.1.4.1 This  tariff is applicable to  
+i. All Private educational institutions and hostels run by them. 
+ii. All Private Medical colleges and hostels which are physically & 
+electrically segregated from Private Hospitals, within same premises. 
+ 
+Tamil Nadu Power Distribution Corporation Lt
+
+--- CHUNK 62 ---
+run by them. 
+ii. All Private Medical colleges and hostels which are physically & 
+electrically segregated from Private Hospitals, within same premises. 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 29 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.1.5 High Tension Tariff III: (Miscellaneous categories) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy charge in Paise 
+per kWh (Unit) 
+High Tension Tariff III 608 940 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1.5.1 This tariff is applicable to Commercial Complexes/Malls/Business premises, Super 
+market/Departmental stores, Cinema theatres/Multiplex, Private hospitals, Hotels, 
+Restaurants, Private Guest Houses,
+
+--- CHUNK 63 ---
+ This tariff is applicable to Commercial Complexes/Malls/Business premises, Super 
+market/Departmental stores, Cinema theatres/Multiplex, Private hospitals, Hotels, 
+Restaurants, Private Guest Houses, Boarding -Lodging Homes, All 
+Government/Private/Local body offices, Banks, Telephone Exchanges, T.V. Station, 
+All India Radio, Railway Stations, MRTS stations, Transport Corporation bus stations, 
+Private bus stations, LPG bottling plants, Stadiums other than those maintained by 
+Government and Local Bodies, Petrol / Diesel and Oil storage plants, Oil / Petroleum 
+projects, Petrol/Gas bunks, Diagnostic/scan centres, Marriage halls, convention centres, 
+Service Stations / Garages, Tyre vulcanizing centres, Gym / Fitness centres, Race 
+Course, Clubs, Amusement Parks, Cent ralised preparation unit of food with Sales 
+counter/ selling activity , Yoga / Meditation centres, Ashrams, Mutts,  Air Port (other 
+than Aeronautical activities), Private hospitals and all other categories of consumers
+
+--- CHUNK 64 ---
+unit of food with Sales 
+counter/ selling activity , Yoga / Meditation centres, Ashrams, Mutts,  Air Port (other 
+than Aeronautical activities), Private hospitals and all other categories of consumers 
+and usages not covered under High Tension Tariff I, II(A), II(B), IV and V. 
+3.1.5.2 In respect of Marriage Hall/Convention centre, commercial establishment 5% extra on 
+the energy charges for the entire consumption will be collected as a component of 
+lavish illumination on usage. For the installations  where a separate service connection 
+is available for the exclusive purpose of lavish illumination, this 5% extra charges shall 
+not be app licable. The status of usage of  lavish illumination shall be assessed and 
+recorded on regular interval. 
+3.1.5.3 The e-vehicle charging facility already provided, to its customers by the Commercial 
+complex / Mall / Theatre / Other Commercial outlet / Gated community, on commercial 
+basis, such consumption may be allowed under LT Tariff-V. 
+ 
+Tamil
+
+--- CHUNK 65 ---
+dy provided, to its customers by the Commercial 
+complex / Mall / Theatre / Other Commercial outlet / Gated community, on commercial 
+basis, such consumption may be allowed under LT Tariff-V. 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 30 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+ 
+3.1.6 High Tension Tariff IV: (Construction activities and other temporary 
+purposes) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Demand Charge in 
+Rs./kVA/month 
+Energy charge in Paise 
+per kWh (Unit) 
+High Tension Tariff IV 608 1325 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1.6.1 This tariff is applicable to Temporary supply for construction of buildings,  construction 
+using steel structure, pre -engineered
+
+--- CHUNK 66 ---
+l be effective from 01st July of 2026 of the control period. 
+3.1.6.1 This tariff is applicable to Temporary supply for construction of buildings,  construction 
+using steel structure, pre -engineered metal building and for other temporary purposes. 
+Viz., Exhibition, Circus, Meetings of Political parties, Festivals and any other 
+temporary purposes. 
+ 
+(i) For  this  category  of  supply,  the  initial/in -principle  approval   for  such 
+construction or to conduct such temporary activity obtained by the applicant 
+from the appropriate authority, wherever necessary, is adequate to effect the 
+supply.  
+(ii) In case of conversion of temporary supply into applicable permanent supply, the 
+same shall be done subject to compliance of codes/ regulations/ orders. 
+3.1.7 High Tension Tariff V: (EV Charging Stations) 
+3.1.7.1 This tariff is applicable for the Electric Vehicle Charging Station including Battery 
+swapping station for Electric vehicle. 
+3.1.7.2 Energy recorded during following h
+
+--- CHUNK 67 ---
+EV Charging Stations) 
+3.1.7.1 This tariff is applicable for the Electric Vehicle Charging Station including Battery 
+swapping station for Electric vehicle. 
+3.1.7.2 Energy recorded during following hours shall be billed at corresponding charges 
+mentioned against each time slot as discussed below. 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 31 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Time slot in hours Energy charge in Paise per kWh(Unit) Demand Charge in Rs./kVA/month 
+High Tension 
+Tariff V 
+06.00 to 09.00 and 
+18.00 to 22.00 975 
+304 09.00 to 16.00 650 
+16.00 to 18.00 and 
+22.00 to 06.00 810 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1
+
+--- CHUNK 68 ---
+for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.1.1.13 of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.1.7.3 In case the consumer uses the supply for charging electric vehicle s in a premise, the 
+tariff applicable shall be as per the category of such premises. 
+3.1.7.4 If the consumer opts, separate service can be effected  under this tariff for e -vehicle 
+charging purpose irrespective of its usage for „own consumption‟ or „public charging‟ 
+purpose, within the premises of any existing service connection, as an exclusive 
+provision.  
+3.1.7.5 The services effected for EV charging stations shall mandatorily be effected with Smart 
+meters, comprising ToD provisions and AMR facility. 
+3.1.7.6 The time slot and rate shall be revisited depending upon the emerging scenario and 
+Govt policies on the EV Charging Station. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tar
+
+--- CHUNK 69 ---
+ time slot and rate shall be revisited depending upon the emerging scenario and 
+Govt policies on the EV Charging Station. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 32 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2 TARIFF FOR LOW TENSION SUPPLY CONSUMERS 
+ 
+3.2.1 General Provisions applicable for Low Tension Supply: 
+ 
+ 
+a. All motors / pump sets connected in this category of supply shall be certified / 
+Approved by BIS / BEE and motors / pump sets of 3 HP and above shall be 
+provided with adequate BIS certified capacitors. Non-compliance shall invite 
+compensation charges as specified in the Codes/regulations. 
+b. In case of LT Tariff III -B and LT Tariff V, all services of three phase shall  
+maintain a power factor of not less than 0.85. Where the average power factor 
+of above Low Tension Service connections is less than the stipulated limit of 
+0.85 the following compensation charges will be levied. 
+Power Factor Power Fact
+
+--- CHUNK 70 ---
+an 0.85. Where the average power factor 
+of above Low Tension Service connections is less than the stipulated limit of 
+0.85 the following compensation charges will be levied. 
+Power Factor Power Factor compensation 
+Below 0.85 
+and up to 0.75 
+One percent of the current consumption charges for every 
+reduction of 0.01 in power factor from 0.85. 
+Below 0.75 One and half percent of the current consumption charges for every reduction of 0.01 in power factor from 0.85 
+c. In case of  LT Tariff II -B(1), LT Tariff II -B(2),LT Tariff III-B and LT Tariff 
+V, shall be billed at 25% extra on the energy charges for the energy recorded 
+during peak hours and a reduction of 5% on the energy charges for the 
+consumption recorded during 10.00 P.M to 5.00 A.M as an incentive for night 
+consumption.   
+d. This 25% extra on the energy charges may be collected for 20% of total 
+consumption until installation of ToD meters. The duration of peak hours 
+shall be 6.00 A.M to 10.00 A.M and 6.00 P.M to 10.00
+
+--- CHUNK 71 ---
+. This 25% extra on the energy charges may be collected for 20% of total 
+consumption until installation of ToD meters. The duration of peak hours 
+shall be 6.00 A.M to 10.00 A.M and 6.00 P.M to 10.00 P.M.   
+e. In case of any consumer being particular about fixing the TOD meter in lieu 
+of extra Peak hour charges, TNPDCL shall fix the meter within 15 days (or)  
+permit the consumer to procure and supply the meter on his own. 
+f. In the event of disconnection o f services, the consumers shall be liable to pay 
+the fixed   charges   applicable   for   the   respective   category   during   the 
+disconnection period. 
+g. In case of LT tariff ID, IE, II-A, II-B(1), II-B(2), IIC, IIIA(1), IIIA(2), III -B, 
+IV, V, VI and VII t he fixed charges shall be calculated on the basis of the 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 33 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+contracted demand. The monthly fixed charges shall be calculated on the 
+basis of p
+
+--- CHUNK 72 ---
+ Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 33 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+contracted demand. The monthly fixed charges shall be calculated on the 
+basis of per kW or part thereof. 
+h. Supply to welding sets shall be charged 15% extra irrespective of category 
+and capacity. 
+i. Supply used for any additional construction of building not exceeding 2000 
+square feet within the consumer‟s premises shall be charged under the 
+respective existing tariff except in case of LT tariff I -B and IV.  The use of 
+electricity for the additional co nstruction purposes beyond 2000 square feet 
+shall be provided with a separate service connection by the licensee and 
+charged under LT Tariff VI. 
+j. In case of supply under LT Tariff II -B(1), Tariff II -B(2), III-B, supply used 
+for creating  facilities  for  th e  compliance  of  Acts/Laws  or  for  the  
+facilities incidental to the main purpose of the establishment of the consumer, 
+such as facilities extend
+
+--- CHUNK 73 ---
+, supply used 
+for creating  facilities  for  th e  compliance  of  Acts/Laws  or  for  the  
+facilities incidental to the main purpose of the establishment of the consumer, 
+such as facilities extended to their employees/ students/ patients/ residents as 
+the case may  be,  within  the  premises  of  the  consumer,  shall  be  
+considered  to  be bonafide purpose, irrespective of whether they are 
+outsourced to a third party or provided by the consumer himself. However, if 
+such facilities are extended to the public, or if part/full premises are 
+leased/rented out to a commercial service provider like food outlets present in 
+food court, which provide service in their own name,  the  energy  
+consumption  to  such  facilities  shall  be  metered  by  the licensee separately 
+and only the energy charged under appropriate LT tariff. Such metered energy 
+consumption shall be deducted from the total energy consumption registered 
+in the main meter of the LT supply for billing. 
+The consum
+
+--- CHUNK 74 ---
+energy charged under appropriate LT tariff. Such metered energy 
+consumption shall be deducted from the total energy consumption registered 
+in the main meter of the LT supply for billing. 
+The consumption for ancillary to the main purpose such as storage of Raw 
+material, finished product, etc., shall be considered to be bonafide purpose for 
+which the supply of electricity is authorised 
+k. In case  of supply except LT Tariff IB and IV the use of electricity for 
+charging of electrical vehicles, within the premises can be charged in existing 
+tariff.  
+l. The applicable tariff for ensuing years of control period shall be as per 
+prevailing tariff x (1+(CPI of April of respective financial year – CPI of April 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 34 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+of previous financial year)/ CPI of April of previous financial year) or 6% 
+whichever is lower) with effect from 1st July of respective financial year.
+
+--- CHUNK 75 ---
+e 34 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+of previous financial year)/ CPI of April of previous financial year) or 6% 
+whichever is lower) with effect from 1st July of respective financial year. 
+m. Electricity Duty/Tax on Electricity shall be levied in addition to the tariffs 
+approved by the Commi ssion, and in accordance with the Government of 
+Tamil Nadu stipulations from time to time. The rate and the reference number 
+of the Government Resolution/ Order under which the Electricity Duty/Tax 
+on Electricity are applied shall be stated in the consumer s‟ energy bills. A 
+copy of such Resolution / Order shall be hosted in the Distribution Licensee‟s 
+website. 
+3.2.2 Low Tension Tariff I -A : (Domestic, Multi -tenements, Old age homes, 
+Handlooms) 
+For FY 2025-26 
+Tariff 
+Range in kWh (units) and 
+billing period (one or two 
+months) 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charges 
+(Rupees per 
+kW per month) 
+Energy charges 
+in paise/kWh 
+Low Tension 
+Tariff I-A* 
+From
+
+--- CHUNK 76 ---
+Wh (units) and 
+billing period (one or two 
+months) 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charges 
+(Rupees per 
+kW per month) 
+Energy charges 
+in paise/kWh 
+Low Tension 
+Tariff I-A* 
+From 0 to 200 units per month or 
+0-400 units for two months 
+Nil 
+495 
+From 201 units to 250 units per 
+month or 401 units to 500 units 
+for two months 
+665 
+From 251 units to 300 units per 
+month or 501 units to 600 units 
+for two months 
+880 
+From 301 units to 400 units per 
+month or 601 units to 800 units 
+for two months 
+995 
+From 401 units to 500 units per 
+month or 801 units to 1000 units 
+for two months 
+1105 
+From 501 units and above per 
+month or 1001 units and above for 
+two months 
+1215 
+*To be partly subsidised by the Government 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025-26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the contro
+
+--- CHUNK 77 ---
+nergy charge) for FY 2025-26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 35 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.2.1 This tariff is applicable to the following: 
+(a) Dwelling purposes of lights, fans, Air conditioners, TV, and all other home appliances. 
+“Dwelling Unit “means an independent housing unit of residential purpose with facilities 
+for living, cooking and may be a part of a building.  
+ Only one service connect ion is permissible in an independent floor/dwelling unit with 
+permanent physical and electrical segregation. If more than one service co exists 
+already, only one service is eligible to be retained under classification of this tariff. The 
+balance number of services shall be converted to tariff ID and charged accordingly. 
+The independent sta
+
+--- CHUNK 78 ---
+
+already, only one service is eligible to be retained under classification of this tariff. The 
+balance number of services shall be converted to tariff ID and charged accordingly. 
+The independent status of floor/dwelling unit with permanent physical /electrical 
+segregation as specified in TNE Distribution Code can be very well inspected and 
+confirmed onsite inspection. In case such independent status is not evident and clear to 
+the inspecting officer, the rental / lease agreement may be insisted. In case of same 
+family members, separate family cards may be insisted in lieu of rental/ lease 
+agreement. 
+(b) Usage o f an independent dwelling unit as clubbed accommodation  by 
+students/employees/ bachelors for residential purpose, not exceeding six persons, without 
+name board. 
+(c)  Supply used in the dwelling unit/house/residence/premises for the following purpose is 
+permitted with a connected load not exceeding 2 kW. 
+(i) To provide lighting, water and other facilities to domesti
+
+--- CHUNK 79 ---
+ply used in the dwelling unit/house/residence/premises for the following purpose is 
+permitted with a connected load not exceeding 2 kW. 
+(i) To provide lighting, water and other facilities to domestic animals/pets 
+including chaff cutting, milking etc. 
+(ii) Watering  for  gardening  including  growing  of  trees  in  and  around 
+residential houses/buildings. 
+(d) Handlooms in residences of handloom weavers and handlooms in sheds regardless  of  
+use  of  outside  labour where  energy is  availed  only  for lighting, fans and all other 
+residential uses. 
+(e) Old Age Homes, Leprosy Centres & sub centres, Orphanages, Hom es for destitute  run  
+by Government/Local  bodies and Registered Charitable  institution/ Trust rendering free 
+services. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 36 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+(f) Consulting  rooms  of  size  limited  to  200  square  feet  of  any professionals attached 
+to the residence of s
+
+--- CHUNK 80 ---
+.(TNPDCL) Tariff Order, 2025  
+Page 36 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+(f) Consulting  rooms  of  size  limited  to  200  square  feet  of  any professionals attached 
+to the residence of such professionals. vi z., Doctors, Lawyers, Auditors, Engineers, 
+Interior decorators, Technical consultants, Architect. This facility is extended exclusively 
+to take advantage of using the residence by the professionals. 
+(g) Handicraft/Artisan works carried out by Potters, Goldsmit hs, Musician, Dancers, Statue 
+carving, saree folding, chain hooking, Towel folding/knotting, Chair Knitting , Bamboo 
+works, etc. attached to the  residence,  done  predominantly  by  self  or  family  members 
+(or) minimum labours and Tuitions/Yoga classes t aken at the residence,  preparation and 
+supply of foods  using  a connected load not exceeding 2 kW. This facility is extended 
+exclusively to take advantage of utilizing the space in and around the residence and 
+participation of family members in the
+
+--- CHUNK 81 ---
+ods  using  a connected load not exceeding 2 kW. This facility is extended 
+exclusively to take advantage of utilizing the space in and around the residence and 
+participation of family members in the small scale production / self-employment. 
+(h) Any additional lights, serial lights, etc. used in the pandals/ shamiana and in the premises 
+of the existing domestic/residential service connection of the consumer for a period not 
+exceeding  one week  at a time, with a connected load not exceeding 3 kW  for the family 
+functions/occasions. 
+(i) Public libraries , libraries running free of cost and area limited to 200 sq. feet  without 
+subsidy. 
+(j) Police quarters with separate service connection for each residential quarters where 
+Electricity charges are borne by individual residents. 
+3.2.3 Low Tension Tariff I-B: ( Huts ) 
+For FY 2025-26 
+Tariff category Description 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rs. 
+Per month/ service) 
+Energy charge in 
+Paise perkWh 
+Lo
+
+--- CHUNK 82 ---
+.3 Low Tension Tariff I-B: ( Huts ) 
+For FY 2025-26 
+Tariff category Description 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rs. 
+Per month/ service) 
+Energy charge in 
+Paise perkWh 
+Low Tension 
+Tariff I-B* 
+Till installation of 
+Energy Meter 332 Nil 
+On Installation of 
+Energy Meter Nil 1010 
+*To be fully subsidised by the Government  
+For FY 2026-27 
+  The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para  6.2.1.m. of T.O.No.7 of 2022 dt.09.09.2022. 
+The revision will be effective from 01st July of 2026 of the control period. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 37 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.3.1 This tariff is applicable to huts in Village Panchayats and Town Panchayats, houses 
+constructed under Jawahar Velai Vaiippu Thittam, TAHDCO Kamarajar Adi Dravidar 
+housing schemes, huts in Nilgiris District and huts with concrete wall in th
+
+--- CHUNK 83 ---
+age Panchayats and Town Panchayats, houses 
+constructed under Jawahar Velai Vaiippu Thittam, TAHDCO Kamarajar Adi Dravidar 
+housing schemes, huts in Nilgiris District and huts with concrete wall in the schemes of 
+State and Central Governments.  
+3.2.3.2 This tariff is applicable subject to following conditions: 
+(i) Hut means a living place not exceeding 250 square feet area with mud wall and 
+the thatched roof / tiles / asbestos / metal sheets like corrugated G.I. sheets for 
+roofing/ concrete Roof and concrete wall with specification of square feet as 
+approved in the schemes of State/ Central Government. 
+(ii)  Only one light not exceeding 40 watts shall be permitted per hut. 
+(iii)  As and when the Government provides other appliances such as Colour TV, 
+fan, Mixie, Grinder and Laptops to these hut dwellers, the usage of appropriate 
+additional load may be permitted. 
+3.2.3.3 Whenever the norms prescribed in (i) to (iii) above is violated, the service category 
+shall be immediatel
+
+--- CHUNK 84 ---
+s to these hut dwellers, the usage of appropriate 
+additional load may be permitted. 
+3.2.3.3 Whenever the norms prescribed in (i) to (iii) above is violated, the service category 
+shall be immediately brought under Low Tension Tariff I-Aand billed accordingly. 
+3.2.4 Low Tension Tariff I-C: (Bulk supply with single point metering ) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rupees 
+per month) 
+Energy charge in 
+Paise per kWh (Unit) 
+Low Tension Tariff I-C 110 880 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.4.1 This tariff is applicable to single point LT bulk supply for residential colonies of 
+employees such as railway colonies, plantation worker colonies, defence colonies, 
+Residential quarters of Kudankulam Nu
+
+--- CHUNK 85 ---
+ariff is applicable to single point LT bulk supply for residential colonies of 
+employees such as railway colonies, plantation worker colonies, defence colonies, 
+Residential quarters of Kudankulam Nuclear power project etc. 
+3.2.4.2 The energy charge of this t ariff is also applicable for the HT/EHT consumers who opt 
+for extending supply under this category for their residential colonies / quarters. 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 38 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.5 Low Tension Tariff  I-D: (Common facilities in Multi-tenements) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rupees 
+per kW per month) 
+Energy charge in Paise 
+per kWh (Unit) 
+Low Tension Tariff I-D 110 880 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision 
+
+--- CHUNK 86 ---
+r FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.5.1 This tariff is applicable to common lighting, water supply, lift provided to the residents, 
+Sewerage treatment plant, Water treatment plant, Fire Hydrant facility, Gym, 
+Swimming pool, CCTV camera, Community hall, amphitheatre, etc., for the purpose of 
+residents only, with separate service connections. This tariff is also applicable to the co-
+existing additional services as referred in para 3.2.2.1(a). 
+3.2.5.2 In respect of multi tenements/multi -storey flats/residential complexes having both 
+domestic and non -domestic utilitie s, common facilities such as common lighting, 
+common water supply, lift will be charged under this tariff only if the non -residential 
+built up area does not exceed 25% of the total buil
+
+--- CHUNK 87 ---
+ic utilitie s, common facilities such as common lighting, 
+common water supply, lift will be charged under this tariff only if the non -residential 
+built up area does not exceed 25% of the total built up area. If it exceeds 25%, the 
+consumption for such facilities shall be charged under LT Tariff V. 
+3.2.6 Low Tension Tariff  I -E : ( Common facilities in Multi -tenements 
+(Residential <=3 floors without lift facility) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rupees 
+per kW per month) 
+Energy charge in 
+Paise per kWh (Unit) 
+Low Tension Tariff I-E* 110 880 
+  
+*To be partly subsidised by the Government 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 
+
+--- CHUNK 88 ---
+r para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 39 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.6.1 This tariff is applicable to  common facilities in  multi-tenements / residential flats of 
+small apartments without lift facility having 3 and less than 3 floors with 10 and less 
+than 10 dwelling units. 
+3.2.6.2 In respect of multi tenements/multi -storey flats/residential  complexes having both 
+domestic and non-domestic utilities, common facilities will be charged under this tariff, 
+only if the non -residential built up area does not exceed 25% of the total built up area. 
+If it exceeds 25%, the consumption for such facilitie s shall be charged under LT Tariff 
+V. 
+3.2.7 Low Tension Tariff II -A: (Public Lighting, Water supply provided by 
+Govt./Local bodies) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Det
+
+--- CHUNK 89 ---
+ie s shall be charged under LT Tariff 
+V. 
+3.2.7 Low Tension Tariff II -A: (Public Lighting, Water supply provided by 
+Govt./Local bodies) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge (Rupees 
+per kW per month) 
+Energy charge in Paise 
+per kWh (Unit) 
+Low Tension Tariff II-A 110 880 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022.  The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.7.1 This tariff is applicable to Public Lighting/High Mas t lights by Government/Local 
+Bodies and Public Water Supply &  Public Sewerage System by Government/Local 
+Bodies /TWAD Board/CMWSSB. 
+3.2.7.2 Private agriculture wells & private wells hired by Government/ Local bodies/ 
+CMWSSB/ TWAD Board/ to draw water for public distribution. 
+3.2.7.3 Public Water Supply by New Tirupur Area Develop
+
+--- CHUNK 90 ---
+.2.7.2 Private agriculture wells & private wells hired by Government/ Local bodies/ 
+CMWSSB/ TWAD Board/ to draw water for public distribution. 
+3.2.7.3 Public Water Supply by New Tirupur Area Developme nt Corporation as long as they 
+supply drinking water predominantly to local bodies/public and Public Water Supply in 
+plantation colonies. 
+3.2.7.4 Separate service connections for streetlights for SIDCO and other Industrial Estates. 
+3.2.7.5 Supply to Railway level crossing signals, Gateman shed.  
+3.2.7.6 Public conveniences and Integrated woman sanitary Complexes. 
+3.2.7.7 Community Nutrition Centres, Anganwadi Centres and Nutritious Meal Centres. 
+3.2.7.8 Electric Crematorium, burial ground and cemetery of all religions. (irrespective of its 
+maintenance by Govt. / Private) 
+3.2.7.9 Parks, Swimming pools, Stadiums of Government / Local Bodies with free entry, water 
+fountains of local bodies 
+3.2.7.10 Traffic signals, CCTV camera – installed by Government Department / Local bodies.
+
+--- CHUNK 91 ---
+rks, Swimming pools, Stadiums of Government / Local Bodies with free entry, water 
+fountains of local bodies 
+3.2.7.10 Traffic signals, CCTV camera – installed by Government Department / Local bodies. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 40 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.8 Low Tension Tariff II-B (1): (Government Educational Institutions its 
+Hostel, Govt. Hospital, Other hospitals rendering totally free service) 
+For FY 2025-26 
+Tariff category Slab 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per kW 
+per month) 
+Energy charge in 
+Paise per kWh 
+(Unit) 
+Low Tension Tariff  
+II-B (1) 
+0-50kW 110 880 
+Above 50-112 kW 359 880 
+Above 112 kW 608 880 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para  6.2.1.m. of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control pe
+
+--- CHUNK 92 ---
+ charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para  6.2.1.m. of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.8.1 This  tariff  is  applicable  to  the  following  entities  owned  or  aided  by  the 
+Government/Government Agencies/Local Bodies: 
+(i) Educational/Welfare institutions and Hostels run by such institutions, other Hostels, 
+Youth/Student Hostels and Scouts camps. 
+(ii) Hospitals, Dispensaries, Primary Health Centres & sub -centres and Veterinary 
+Hospitals. 
+(iii) Central Prisons and other Prisons of the State Government. 
+(iv) Research Laboratories/Institute. 
+(v) Elephant Health camp 
+(vi) State Legal Udhavi Maiyam.  
+(vii) Art Galleries and Museums.  
+(viii) Public libraries (area exceeding 200 Sq. feet.) 
+3.2.8.2 This tariff is applicable to the following entities which offer totally free services: 
+(i) Dispensaries, Creches and Recreation centres. 
+Tamil Nadu Power Dist
+
+--- CHUNK 93 ---
+(area exceeding 200 Sq. feet.) 
+3.2.8.2 This tariff is applicable to the following entities which offer totally free services: 
+(i) Dispensaries, Creches and Recreation centres. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 41 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+(ii) Libraries area exceeding 200 sq. Feet. 
+(iii) Emergency Accident Relief Centres on highways, Hospitals and Rehabilitation 
+Centres for mentally ill & blind and others, Terminal Cancer Care Centre and 
+Hospital in Tribal areas. 
+(iv) Institutes run for/by the physically challenged. (Institute/Hostel run for disabled 
+person run for free of cost service) 
+(v) Rehabilitation and Training centres. 
+(vi) Student Hostel. 
+(vii) Blood Banks. 
+3.2.8.3 This tariff is also applicable to Private Art Gallerie s and Museums run with service 
+motive. 
+3.2.9 Low Tension Tariff II -B (2): (Private Educational Institutions/Hostel, 
+Segregated Private Medical college) 
+For FY 2025-26 
+Tariff catego
+
+--- CHUNK 94 ---
+ Art Gallerie s and Museums run with service 
+motive. 
+3.2.9 Low Tension Tariff II -B (2): (Private Educational Institutions/Hostel, 
+Segregated Private Medical college) 
+For FY 2025-26 
+Tariff category Slab 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per kW 
+per month) 
+Energy charge in 
+Paise per kWh 
+(Unit) 
+Low Tension 
+Tariff II-B (2) 
+0-50kW 110 940 
+Above 50-112 kW 359 940 
+Above 112 kW 608 940 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.9.1 This tariff is applicable to Private educational institutions and hostels run by them. 
+3.2.9.2 This tariff is also applicable to all private medical colleges and hostels which are 
+physically& electrically segregated from Hospital within same premises. 
+Tamil Nadu Power Distribution Corporati
+
+--- CHUNK 95 ---
+2 This tariff is also applicable to all private medical colleges and hostels which are 
+physically& electrically segregated from Hospital within same premises. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 42 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.10 Low Tension Tariff  II-C: (Actual places of Public worship) 
+ 
+For FY 2025-26 
+ 
+Tariff 
+category Description 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per kW 
+per month) 
+Energy charge in 
+Paise per kWh 
+Low Tension 
+Tariff II-C* 
+0 to 60 units per month or 
+0 to 120 units bimonthly 
+110 
+640 
+Above 60 units per Month 
+or above 120 units 
+bimonthly 
+775 
+*To be partly subsidised by the Government  
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.10.1 T
+
+--- CHUNK 96 ---
+025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.10.1 This tariff is applicable to actual places  of public worship including Trichy  Rockfort 
+temple, its environs and for the road and pathways leading to the temple.  
+3.2.10.2 Actual places of public worship is as defined under the Places of Worship (Special 
+Provisions) Act 1991 viz., Temple, Mosque, Gurudwara, Church, Monastery or any 
+other place of Public religious worship of any religious denomination or any section 
+thereof, by whatever name called. 
+3.2.10.3 The existing concessions to the places of worship as already notified by GoTN h aving 
+annual income less than Rs.1000 shall be continued under the same terms and 
+conditions, until further Order of the Commission. 
+ 
+ 
+3.2.11 Low Tension Tariff  III-A (1): (Cottage & Micro Industries) 
+For FY 2025-26 
+Tariff 
+category Description
+
+--- CHUNK 97 ---
+inued under the same terms and 
+conditions, until further Order of the Commission. 
+ 
+ 
+3.2.11 Low Tension Tariff  III-A (1): (Cottage & Micro Industries) 
+For FY 2025-26 
+Tariff 
+category Description 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per 
+kW per month) 
+Energy charge 
+in Paise per 
+kWh 
+Low Tension 
+Tariff  
+III-A (1) 
+0 to 250 units per month or 0 to 
+500 units bimonthly 
+77 
+495 
+From    251    units    and 
+above units per month or 501   
+units   and above bimonthly 
+715 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 43 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2026-27 
+ 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.11.1 The contracted load for supply under this tariff category shall not exceed 12 kW.
+
+--- CHUNK 98 ---
+.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.11.1 The contracted load for supply under this tariff category shall not exceed 12 kW.                                                                                                                                                                                                                                                                                     
+3.2.11.2 This tariff is applicable to Cottage industries, Micro enterprises engaged in the 
+manufacture or production of goods pertaining to any industries specifie d in the first 
+schedule to Industries (Development and Regulations) Act 1951 (Central Act 65 of 
+1951) and enterprises engaged in manufacturing or production of goods as categorised 
+under MSMED Act 2006 
+3.2.11.3 The intending consumers applying for service connectio n under LT Tariff III A (1) 
+claiming to have established the micro enterprise engaged 
+
+--- CHUNK 99 ---
+n of goods as categorised 
+under MSMED Act 2006 
+3.2.11.3 The intending consumers applying for service connectio n under LT Tariff III A (1) 
+claiming to have established the micro enterprise engaged in the manufacture or 
+production of goods shall produce the Udayam Registration certificates from the 
+industrial department / District Industries Centre under the Micro S mall and Medium 
+Enterprises Development Act, 2006 (Act 27 of 2006) for setting up of Micro 
+Enterprises for manufacture or production of goods with District Industries Centre 
+under whose jurisdiction the Enterprise is located. 
+3.2.11.4 The existing consumers who are  classified under LT Tariff III A (1) based on the SSI / 
+Tiny Industries Certificate will be continued to be charged under this tariff. 
+3.2.11.5 This tariff is applicable to Air jet looms, Auto looms, Small Gem cutting units, Waste 
+land development, Ironing/ laundry works and Common effluent treatment plants. 
+3.2.11.6 This tariff is also applicable to
+
+--- CHUNK 100 ---
+f is applicable to Air jet looms, Auto looms, Small Gem cutting units, Waste 
+land development, Ironing/ laundry works and Common effluent treatment plants. 
+3.2.11.6 This tariff is also applicable to Coffee grinding, Ice factory, Vehicle Body building 
+units, sawmills, rice mills, flour Mills, battery charging units and Dairy units. 
+3.2.11.7 This tariff is also applicable for sericul ture, floriculture, horticulture, mushroom 
+cultivation, cattle farming, poultry & bird farming and fish/prawn culture. 
+3.2.11.8 This tariff is also applicable for pumping of water/supply of water for the  purpose of 
+“agriculture and allied activities” as specified in LT Tariff IV provided that the 
+applicant who had applied for agricultural service connection in LT Tariff IV under 
+normal category is unable to get supply under LT tariff IV under Normal category as 
+per the seniority maintained in Normal Category specif ically for the purpose of 
+providing supply to Agriculture under LT tariff IV. As a
+
+--- CHUNK 101 ---
+le to get supply under LT tariff IV under Normal category as 
+per the seniority maintained in Normal Category specif ically for the purpose of 
+providing supply to Agriculture under LT tariff IV. As and when such applicant 
+becomes eligible to get regular supply in Normal Category under LT Tariff IV as per 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 44 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+the specific seniority maintained for that purpose by the Licensee,  the supply obtained 
+under LT Tariff III -A(1) for the specific purpose mentioned in this sub clause shall be 
+converted into LT tariff IV . Thereafter, the terms and conditions of LT Tariff IV only 
+will apply. 
+a. This tariff is not eligible for any category oth er than normal category including for 
+those who have changed from Normal to other categories.  
+b. After getting the Service in LT-IIIA1, the category cannot be changed from normal 
+category to other category.  
+c. Necessary unde
+
+--- CHUNK 102 ---
+ing for 
+those who have changed from Normal to other categories.  
+b. After getting the Service in LT-IIIA1, the category cannot be changed from normal 
+category to other category.  
+c. Necessary undertaking shall be obtained from the applicant in this regard.  
+d. The load/demand applied for IIIA1 must be equal to the load originally applied for 
+agricultural service under normal category.  
+e. The ceiling limit of 12 kW allied with tariff IIIA1 for Industrial purpose is not 
+applicable to this c ategory. If the contracted demand is exceeded, excess demand 
+charges shall be levied. 
+f. The Ud yam Registration Certificate from MSME/DIC is  not applicable to 
+agricultural allied activities and hence shall not be insisted. 
+ 
+3.2.12 Low Tension Tariff  III-A (2): (Power Looms) 
+For FY 2025-26 
+ 
+Tariff Consumption slabs– Range in kWh and billing period 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charges 
+(Rupees per kW 
+per month) 
+Energy 
+Charges in 
+Paise per kWh 
+Low Tension 
+T
+
+--- CHUNK 103 ---
+6 
+ 
+Tariff Consumption slabs– Range in kWh and billing period 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charges 
+(Rupees per kW 
+per month) 
+Energy 
+Charges in 
+Paise per kWh 
+Low Tension 
+TariffIII-
+A(2)* 
+(i) For consumer who consume up to 250 units per month(or) 500 
+units for two months 
+0 to250 units per month or 0 
+to 500 units bimonthly 110 715 
+(ii)For consumers who consume 251 units and above per month 
+(or) 501 units and above for two months 
+0 to 250 units per month or0 
+to 500 units bimonthly 
+110 
+715 
+251 to 500 units per month or 
+501 to 1000 units bimonthly 825 
+501 to750 units per month or 
+1001 to 1500 unit bimonthly 825 
+1501units & above bimonthly 825 
+*To be partly subsidised by the Government. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 45 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per
+
+--- CHUNK 104 ---
+der, 2025  
+Page 45 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.12.1 The contracted load shall not exceed 12 kW under this category.                                                       
+3.2.12.2 The tariff is applicable to Power looms, Braided Cords Manufacturing and related 
+ancillary tiny industries engaged in warping, twisting, and winding. 
+ 
+3.2.13 Low Tension Tariff III -B: (Industries, Information Technology 
+services) 
+For FY 2025-26 
+ 
+Tariff category Slabs 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per kW 
+per month) 
+Energy charge in 
+Paise per kWh (Unit) 
+Low Tension 
+Tariff III-B* 
+0-50kW 84 
+825 Above 50-112kW 165 
+Above 112 kW 608 
+*To be partly subsidised by the Government 
+For F
+
+--- CHUNK 105 ---
+ 
+(Rupees per kW 
+per month) 
+Energy charge in 
+Paise per kWh (Unit) 
+Low Tension 
+Tariff III-B* 
+0-50kW 84 
+825 Above 50-112kW 165 
+Above 112 kW 608 
+*To be partly subsidised by the Government 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.13.1 This tariff is applicable to all industries not covered under LT Tariff III A (1) and III -A 
+(2). All industries covered under LT III A(1) and III A(2) shall also fall under this tariff 
+category if the  contracted load of such services exceed 12 kW. 
+3.2.13.2 This tariff is applicable to Information Technology services as defined in the ICT 
+Policy 2008 of Government of Tamil Nadu and amended from time to time. The 
+definition is reproduced below: 
+“IT services are broadly defined as systems integration, processing 
+servi
+
+--- CHUNK 106 ---
+ined in the ICT 
+Policy 2008 of Government of Tamil Nadu and amended from time to time. The 
+definition is reproduced below: 
+“IT services are broadly defined as systems integration, processing 
+services, inf ormation services outsourcing, packaged software support 
+and installation, hardware support and installation.” 
+3.2.13.3 Information Technology Services includes: 
+(i) Systems integration includes: 
+1. Network Management Services 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 46 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+2. Applications Integration 
+(ii) Processing services includes: 
+1. Outsourced Services in Banking, HR, finance, Technology and other areas like 
+Data Centres. 
+2. Outsourced Back office support or Business transformation and Process Consulting 
+Services. 
+(iii) Information Services Outsourcing includes: 
+1. Outsourced Global Information Support Services 
+2. Knowledge Process Outsourcing 
+3. Outsourced Global Contact Centre Oper
+
+--- CHUNK 107 ---
+s Consulting 
+Services. 
+(iii) Information Services Outsourcing includes: 
+1. Outsourced Global Information Support Services 
+2. Knowledge Process Outsourcing 
+3. Outsourced Global Contact Centre Operations 
+4. Outsourced Process Consulting Services. 
+(iv) Packaged Software Support and Installation includes: 
+1. Software Design and Development, Support and Maintenance 
+2. Application installation, support and maintenance 
+3. Application testing. 
+(v) Hardware Support and Installation includes: 
+1. Technical and network operations support 
+2. Hardware installation, administration and management 
+3. Hardware infrastructure maintenance and support 
+3.2.13.4 The intending consumers applying for service connection under LT Tariff III B shall 
+produce Udyam Registration Certificate from the Industrial Department/District 
+Industries Centre. 
+3.2.13.5 This tariff is also applicable to Industrial installation units with loads o f Heating & 
+Motive power (including lighting) installations of in
+
+--- CHUNK 108 ---
+strial Department/District 
+Industries Centre. 
+3.2.13.5 This tariff is also applicable to Industrial installation units with loads o f Heating & 
+Motive power (including lighting) installations of industrial Units, Poultry /Bird Farms, 
+Sugarcane Crushers, Coffee Pulping, Coffee Roasting and Grinding Works,  
+Cardamom drying, Mushroom raising installations, Flour, Huller & Rice Mills, Oil 
+mill, sugar mill, Sago industry, Tanna ries industries, Battery charging unit, Tyre 
+retreading unit, Packaging, Cutting of larger size of materials into smaller size, Coir 
+manufacturing, Assembly of ancillary parts for making solar panel/invertor,  Wet 
+Grinders, Milk dairies, Air jet looms, Auto looms,  Bulk Ice Cream and Ice 
+manufacturing Units, Cold Storage Plants, Bakery Product Manufacturing Units,   Drug 
+manufacturing units and Testing laboratories, Printing Presses, Garment manufacturing 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 47 
+TNERC – T.O.No. 
+
+--- CHUNK 109 ---
+ts,   Drug 
+manufacturing units and Testing laboratories, Printing Presses, Garment manufacturing 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 47 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+units, Bulk Milk vending Booths, Saw Mills, Toy/wood industries, furniture 
+manufacturing,  Agarbat hi manufacturing units, Gem & Diamond cutting Units, 
+Floriculture, Green House, Biotech Labs, Data Centres, Hybrid seed processing units, 
+Satellite communication ce ntres, Mineral water processing plants / drinking water 
+bottling plants and private Solid Waste Processing Plant  Silk / Cotton colour dying, 
+Piggery farms, Gold / Silver ornament manufacturing units, Centralised food 
+preparation units (if sales counter is  physically & electrically segregated), concrete 
+mixture (Ready Mix Concrete) units, brick manufacturing.  
+3.2.14 Low Tension Tariff  IV: (Agriculture and allied activities) 
+For FY 2025-26 
+Tariff category Description 
+FY 2025-26 
+(Commission D
+
+--- CHUNK 110 ---
+e 
+mixture (Ready Mix Concrete) units, brick manufacturing.  
+3.2.14 Low Tension Tariff  IV: (Agriculture and allied activities) 
+For FY 2025-26 
+Tariff category Description 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per HP 
+per Annum) 
+Energy charge in 
+Paise per kWh 
+Low Tension 
+Tariff IV* 
+Till installation of 
+Energy Meter 3925 Nil 
+On Installation of 
+Energy Meter Nil 495 
+*To be fully subsidised by the Government 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.14.1 This tarif f is applicable for pumping of water/supply of water to all agricultural and 
+allied activities such as cultivation of food crops, vegetables, and trees. Sericulture, 
+floriculture, horticulture, mushroom cultivation, cattle farming, poultry and other bird 
+farmin
+
+--- CHUNK 111 ---
+cultural and 
+allied activities such as cultivation of food crops, vegetables, and trees. Sericulture, 
+floriculture, horticulture, mushroom cultivation, cattle farming, poultry and other bird 
+farming, fish/prawn culture carried out as allied activities of agriculture along with 
+agriculture activities, etc., shall be construed as agricultural activities. 
+3.2.14.2 The services under this tariff shall be permitted to have lighting loads up to 50 watts  
+per  1000  watts  of  contracted  load  subject  to  a  maximum  of  150  watts inclusive 
+of wattage of pilot lamps for bonafide use. 
+3.2.14.3 Subject to the limit of contracted load, the supply under this category can be utilised for 
+allied agricultural uses such as m ilking, sugar cane crushing, harvesting, stalk/chaff 
+cutting, thrashing and cleaning of agricultural produces, power operated shredder , 
+mechanised uncoiring of coconut, crane used for lifting mud/silt from well, etc., by 
+having  a  changeover  switch  .Th e change
+
+--- CHUNK 112 ---
+hing and cleaning of agricultural produces, power operated shredder , 
+mechanised uncoiring of coconut, crane used for lifting mud/silt from well, etc., by 
+having  a  changeover  switch  .Th e changeover switch is meant for using the supply 
+either for the pump set or for any one or more of the purposes mentioned in this clause. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 48 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+Using supply both to the pump sets and to the other purpose(s) at the same time is 
+strictly prohibited. The consumer shall abide by the safety norms for any additional 
+wiring for this purpose. 
+3.2.14.4 This tariff is applicable irrespective of ownership of land if the usage of electricity is 
+for agriculture and its allied activities. 
+3.2.14.5 Agricultural consumers shall be permitted to u se the water pumped from the well for 
+bonafide domestic purposes in the farmhouse including for construction of farmhouse 
+and sheds for allie
+
+--- CHUNK 113 ---
+
+3.2.14.5 Agricultural consumers shall be permitted to u se the water pumped from the well for 
+bonafide domestic purposes in the farmhouse including for construction of farmhouse 
+and sheds for allied works by pumping water directly from well/borewell to the 
+overhead tanks in the farmhouse. 
+3.2.14.6 Supply for other purpo se exceeding the limit permitted for lighting purpose shall be 
+provided only by separate service connections under appropriate LT Tariff. Service 
+connections for water pumping for non -agricultural purpose under appropriate tariff is 
+permitted in the same well. 
+3.2.14.7 This Tariff is applicable to pump sets of Tamil Nadu Agriculture University and 
+Research centres, Government Seed Farms, pump sets of Tamil Nadu Forest 
+department,   Pump   sets   of   Government   coconut   nurseries,   Pump   sets   of 
+Government oil seed farms. 
+3.2.14.8 Pumping and purifying of drainage water for the purpose of agriculture use. 
+ 
+3.2.15 Low Tension Tariff  V: (Miscellane
+
+--- CHUNK 114 ---
+  coconut   nurseries,   Pump   sets   of 
+Government oil seed farms. 
+3.2.14.8 Pumping and purifying of drainage water for the purpose of agriculture use. 
+ 
+3.2.15 Low Tension Tariff  V: (Miscellaneous/General purpose)  
+For FY 2025-26 
+Tariff 
+category 
+Consumption slabs– Range 
+in kWh and billing period 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rupees per kW 
+per month) 
+Energy charge 
+in Paise per 
+kWh 
+Low Tension 
+Tariff V 
+For consumer with 
+consumption 50 units per 
+month or 100 units bimonthly  665 0-50 kW 110 
+Above 50-112kW 332 
+Above 112kW 608 
+For consumers with 
+consumption above 50 units 
+monthly or above 100 units 
+bimonthly (for all units) 
+ 
+1045 
+0-50 kW 110 
+Above 50-112kW 332 
+Above 112kW 608 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 49 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustm
+
+--- CHUNK 115 ---
+) Tariff Order, 2025  
+Page 49 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.15.1 This tariff is applicable to Commercial Complexes, Malls, Super market / Departmental 
+stores, Cinema theatres / Multiplex, Hotels, Private Hospitals, Private Health clinics, 
+Private Guest Houses, Boarding -Lodging Homes, All Government/Private/Local body 
+offices, Pol ice stations, Banks, Telephone Exchanges, T.V. Station, All India Radio, 
+Railway Stations, MRTS stations, Transport Corporation bus stations, Private bus 
+stations, Stadiums other than those maintained by Government and Local Bodies, 
+Petrol / Diesel and Oil  storage plants,  Oil Petroleum projects,  Petrol/Gas bunks, 
+Diagnostic centres, Marriage halls, Service Stations / Ga
+
+--- CHUNK 116 ---
+r than those maintained by Government and Local Bodies, 
+Petrol / Diesel and Oil  storage plants,  Oil Petroleum projects,  Petrol/Gas bunks, 
+Diagnostic centres, Marriage halls, Service Stations / Garages, Tyre vulcanizing 
+centres, Gym / Fitness centres, Race Course, Clubs, Recreation centres, Commercial 
+Lighting, Heating and Motive Po wer installations of Clinics, X -Ray units, Scan 
+Centres, Blood test centres, Yoga / Meditation centres, Ashrams, Mutts, Shops, Bars, 
+Mess,  Telecom towers, Dish Antenna of Cable TV networks, Public Telephone 
+Booths/ STD, ISD, Stud Farms, Ice Cream Parlours , Computer Centres, Photo Studio / 
+Colour Laboratory, Photo Copiers (Xerox shop), Post Offices, Sweet /Bakery shops, 
+Beauty Parlours, Internet Browsing centres,  Home Stay / Service apartment, Paying 
+guests accommodation provided in an independent / exclusive premises, Centralised 
+food preparation units with Sales counter, Consultation offices of Lawyers, Auditors, 
+Doctors & other professio
+
+--- CHUNK 117 ---
+ing 
+guests accommodation provided in an independent / exclusive premises, Centralised 
+food preparation units with Sales counter, Consultation offices of Lawyers, Auditors, 
+Doctors & other professionals‟ consulting office, Accommodation for labour/ staff of 
+any establishment involved in commercial/ industrial/ construction activities and 
+consumers not categorized under LT IA, IB, IC, ID, IIA, IIB (1), II B (2), IIC, IIIA (1), 
+III A (2), III B, IV, VI and VII. 
+3.2.15.2 In respect of M arriage Hall /Convention centre and commercial establishment where 
+lavish illumination is used , 5% extra on the energy charges for the entire consumption 
+will be collected as a component of lavish illumination on usage.  For the installations 
+where a separ ate service connection is available for the exclusive purpose of lavish 
+illumination, this 5% extra charges shall not be applicable. The status of lavish 
+illumination shall be inspected and recorded on regular interval. 
+3.2.15.3 In respect o
+
+--- CHUNK 118 ---
+exclusive purpose of lavish 
+illumination, this 5% extra charges shall not be applicable. The status of lavish 
+illumination shall be inspected and recorded on regular interval. 
+3.2.15.3 In respect of multi tenements/multi -storeyed buildings/residential complexes where the 
+number of flats/Tenements utilized for commercial and other purposes exceeds 25% of 
+the total built up area, the LT services relating to common utilities such as common 
+lighting, water supply, lift and other facilities shall be charged under this tariff. 
+3.2.15.4 The e-vehicle charging facility already provided, to its customers by the Commercial 
+complex / Mall / Theatre / Other Commercial outlet / Gated community, on commercial 
+basis may be allowed under LT Tariff-V. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 50 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.16 Low Tension  Tariff VI: (Construction activities and Temporary 
+purposes) 
+For FY 2025-26 
+Tariff category 
+FY
+
+--- CHUNK 119 ---
+d.(TNPDCL) Tariff Order, 2025  
+Page 50 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.16 Low Tension  Tariff VI: (Construction activities and Temporary 
+purposes) 
+For FY 2025-26 
+Tariff category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge 
+(Rs./kW/month) 
+Energy charge in Paise 
+per kWh(Unit) 
+Low Tension Tariff VI 608 1325 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.16.1 This  tariff  is  applicable  to  Temporary  supply  for   construction of infrastructures 
+such as buildings, bridges, construction using steel structure, pre -engineered metal 
+building etc., and for other temporary purposes  such as Exhibition, Circus, Meetings of 
+Political parties, Festivals, events  etc., 
+3.2.16.2 The electricity supply for the additional construction b
+
+--- CHUNK 120 ---
+building etc., and for other temporary purposes  such as Exhibition, Circus, Meetings of 
+Political parties, Festivals, events  etc., 
+3.2.16.2 The electricity supply for the additional construction beyond 2000 square feet in the 
+premises of an existing consumer shall be provided only through a separate service 
+connection and charged under this tariff. 
+3.2.16.3 For temporary supply, the initial/in -principle approval for such construction or to 
+conduct such temporary activity obtained by the applicant from the appropriate 
+authority, wherever necessary, is adequate to effect the supply. 
+3.2.16.4 In case of conversi on of temporary supply into applicable permanent supply, the same 
+shall be done subject to compliance of codes/regulations/orders. 
+3.2.16.5 In   case  of  lavish  illumination,  if  the  illumination  is  done  frequently  or 
+permanently, separate regular service c onnection shall be provided for lavish 
+illumination and charged under this tariff. 
+3.2.16.6 If the su
+
+--- CHUNK 121 ---
+ation,  if  the  illumination  is  done  frequently  or 
+permanently, separate regular service c onnection shall be provided for lavish 
+illumination and charged under this tariff. 
+3.2.16.6 If the supply is availed for short duration for the temporary activity/illumination from 
+an existing metered service connection, the computation of energy/fixed charges for 
+temporary illumination/activity shall be done based on the contracted load and duration 
+of temporary supply.  Contracted load shall be accounted in kW or part thereof.  Fixed 
+charges shall be for a month or part thereof.  The consumed units shall be the difference 
+between the Initial reading and Final reading Taken and recorded on commencement 
+and completion of the event. It shall be charged under this tariff and included in the CC 
+bill with clear split up details intimated to the consumer.  
+3.2.16.7 Undertaking shall be given by the applicant to this effect along with the application. 
+Tamil Nadu Power Distribution Corp
+
+--- CHUNK 122 ---
+he CC 
+bill with clear split up details intimated to the consumer.  
+3.2.16.7 Undertaking shall be given by the applicant to this effect along with the application. 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 51 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+3.2.16.8 The total load to be connected shall be within the meter capacity. 
+3.2.16.9 The consumer shall abide by all safety rules and norms of wiring, installation and 
+protection. 
+3.2.16.10 The following are considered as Lavish Illumination. 
+(i) Illumination done for hoardings & advertisement boards. 
+(ii) Extra/additional illumination done outside the building and in the open areas for 
+festivals/parties/functions/meetings/occasions/events. 
+(iii) Illumination done in the outer surface/outside the buildings/shops by display lights, 
+serial lamps, decorative lights, special effect lamps, neon lamps, ornamental lamps, 
+flood lights, etc. 
+(iv) Temporary Illumination done for public meetings in 
+
+--- CHUNK 123 ---
+e buildings/shops by display lights, 
+serial lamps, decorative lights, special effect lamps, neon lamps, ornamental lamps, 
+flood lights, etc. 
+(iv) Temporary Illumination done for public meetings in pandals/ shamianas, path -
+ways, streets and roads. 
+3.2.17 Low Tension Tariff  VII: (EV Charging Stations) 
+ 
+3.2.17.1 This tariff is applicable for the purpose of Electric Vehicle charging including Battery 
+swapping station / Battery charging stations for Electric vehicle. 
+3.2.17.2 Energy recorded during following hours sh all be billed at corresponding charges 
+mentioned against each time slot as discussed below. 
+ 
+For FY 2025-26 
+ 
+Tariff 
+category 
+FY 2025-26 
+(Commission Determined Tariff) 
+Fixed Charge in Rupees 
+per kW per month Time slot in hours 
+Energy charge 
+in Paise per 
+kWh(Unit) 
+Low 
+Tension 
+Tariff VII 
+0-50kW 55 06.00 to 09.00 and 18.00 to 22.00 975  
+50-112 kW 165 09.00 to 16.00 650 
+Above 112kW 304 16.00 to 18.00 and 22.00 to 06.00 810 
+ 
+For FY 2026-27 
+The applica
+
+--- CHUNK 124 ---
+nit) 
+Low 
+Tension 
+Tariff VII 
+0-50kW 55 06.00 to 09.00 and 18.00 to 22.00 975  
+50-112 kW 165 09.00 to 16.00 650 
+Above 112kW 304 16.00 to 18.00 and 22.00 to 06.00 810 
+ 
+For FY 2026-27 
+The applicable tariff (both fixed and energy charge) for FY 2025 -26 shall undergo an 
+inflation based adjustment, as per para 6.2.1.m . of T.O.No.7 of 2022 dt.09.09.2022. The 
+revision will be effective from 01st July of 2026 of the control period. 
+3.2.17.3 In case th e consumer uses the supply for charging electric vehicles in a premise, the 
+tariff applicable shall be as per the category of such premises 
+3.2.17.4 If the consumer opts, separate service can be effected under this tariff for e -vehicle 
+charging purpose irrespective  of its usage for „own consumption‟ or „public charging‟ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 52 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+purpose, within the premises of any existing service connection, as an exclusive 
+pro
+
+--- CHUNK 125 ---
+ower Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 52 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+purpose, within the premises of any existing service connection, as an exclusive 
+provision.  
+3.2.17.5 The services effected for EV charging purpose shall be effected with Smart meters , 
+comprising ToD provisions and AMR facility. 
+3.2.17.6 The time slot and rate shall be revisited depending upon the emerging scenario and 
+Government policies of the EV Charging Station. 
+3.2.18 Applicability of the Tariff Schedule 
+3.2.18.1 The above tariff schedule shall be read with the General Terms and Conditions of 
+Supply Code and Distribution code specified by the Commission. 
+3.2.18.2 Effecting change in tariff category for a consumer in accordance with this tariff order 
+shall be the responsibility of TNPDCL. Whenever re -classification of tariff arises in 
+respect of any service, necessary intimation must be given  to all such consumers within 
+a month and regularized by taking
+
+--- CHUNK 126 ---
+e responsibility of TNPDCL. Whenever re -classification of tariff arises in 
+respect of any service, necessary intimation must be given  to all such consumers within 
+a month and regularized by taking RTR (Revised Test Report) by the TNPDCL.   
+3.2.18.3 In case of any clarification on this tariff schedule, it may be referred to the 
+Commission. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tamil Nadu Power Distribution Corporation Ltd.(TNPDCL) Tariff Order, 2025  
+Page 53 
+TNERC – T.O.No. 6 of 2025, Dt.30-06-2025 
+4 NEW DIRECTIVES 
+4.1 FRESH DIRECTIVES 
+4.1.1 The Commission directs TNPDCL: 
+ 
+1) The programme of the billing software shall be revised / corrected on top most 
+priority for all charges of all categories in line with this Tariff Order and 
+Provisions of the Codes / Regulations. 
+2) The tariff schedule of this order shall be conveyed to the public by the Licensee   
+through SMS to the registered mobile phones / email / consumer WhatsApp 
+groups / Banners / Pamphlets / Displ
+
+--- CHUNK 127 ---
+. 
+2) The tariff schedule of this order shall be conveyed to the public by the Licensee   
+through SMS to the registered mobile phones / email / consumer WhatsApp 
+groups / Banners / Pamphlets / Display boards in all section offices. 
+3) To pa y relevant tariff determination fees as per TNERC Fees and Fines 
+Regulations, 2022 before 30th June, 2026 for the FY 2026 -27 in the current 
+control period. 
+4) Further, TNPDCL is directed to furnish  the compliance of directives within the 
+time frame as stipulated in para 7.2 of the T.O.No.7 of 2022 dated 09.09.2022. 
+ 
+Sd/-           Sd/-         Sd/- 
+ (B.Mohan) 
+Member (Legal) 
+ (K.Venkatesan) 
+Member 
+ (R.Manivannan)  
+Chairman 
+   
+(By Order of the Commission) 
+      
+  
+ 
+
+Energy (D3) DePartment,
+Secretariat,
+Chennai - 9.
+Letter No.4097/D3/2025. Dated 30'06'2025
+From
+Thiru. Ramesh Chand Meena, IAS',
+nOOitionat Chief Secretary to Government (FAC)
+To
+The Secretary,
+Tamil Nadu Electricity Regulatory Commission'
+Chennai-600032.
+Sir,
+Sub
+Ref
+
+--- CHUNK 128 ---
+2025. Dated 30'06'2025
+From
+Thiru. Ramesh Chand Meena, IAS',
+nOOitionat Chief Secretary to Government (FAC)
+To
+The Secretary,
+Tamil Nadu Electricity Regulatory Commission'
+Chennai-600032.
+Sir,
+Sub
+Ref:
+Electricity - Tariff revision ior 2025-26 - LT Tariff lA
+Oor"iti6, LT Tariff lllA(1) Cottage and Tiny
+inJritri"", LT Tariff lllA(2) Power loom, LT Tariff lllB
+f nJriiti"t, LT Tariff V Miscellaneous - Issuance of
+Commitment letter to Hon'ble TNERC Regarding'
+1 Letter No.5434/D312024, Dated 04'12'2024
+? Lr.No.CFC/RCi FC/ DFC/ RC/ F '7P2o25-261
+D.No.292 /25, Dated 25'06'2025'
+3. tr.No.CFC/RCi FC/ DFC/ RC/ F JP2O25-261
+D.No.293 /25, Dated 25'06'2025'
+4 Lr.No.CFC/RC/ FC/ DFC/ RC/ F IP2O25-261
+D.No.294 /25, Dated 25'06'2025'
+lamdirectedtostatethattheHon'bleTNERChasrevisedthetariffduring
+Fy zOZ -zSviOe Suo moio tarif order No O oi 2024 dl'15'07 '2024 with a hike based
+on Cpl increase *itn "ff".t from 01 .Oi.iOZl and the Government has issued a commitment letteruiO" r-"tt", noSag lDSlZOZa' dated
+
+--- CHUNK 129 ---
+viOe Suo moio tarif order No O oi 2024 dl'15'07 '2024 with a hike based
+on Cpl increase *itn "ff".t from 01 .Oi.iOZl and the Government has issued a commitment letteruiO" r-"tt", noSag lDSlZOZa' dated 04j2z024 in which it is
+stated as follows:-
+'5. The Govemment also commit the following:-
+a.Topaytheunitwisesubsjdydeclaredintheabovetablefor
+FY 2024-25.
+b.Topaytheincremenfalsubsjdydue-toincreaseintaiffasperCPlfor
+the ensuins yrr;;;;;'iiii-iiii"a tiil FY 2026-27 as stiputated in paras
+6.2(m) and 6.1(6'1'1'13) of the tatriff order no'7 of 2022 which is
+reproduced below:-
+'6.1.1.13 The applicabte tariff for ensuinq y9?r:^{,
+control period sfrafl Je as pter prevailing taiff x (1+(CPI
+of Aprit of respectiie financiat yea1 - Cpt of Apil of "p,ri[rir- nn-ancial yea'r1 / CPi of April of previous
+lt
+financialyear) or 6% whichever is lower with effect from
+1st July of respective financial yeaf'
+c. To continue this commitment till communication of any changes if any
+in the policy directive.
+2. ln 
+
+--- CHUNK 130 ---
+
+financialyear) or 6% whichever is lower with effect from
+1st July of respective financial yeaf'
+c. To continue this commitment till communication of any changes if any
+in the policy directive.
+2. ln continuation to the above, the Government also commits the following:-
+a) To consider the Consumers' Price lndex (CPl) escalation rate for
+FY 2025-26 for subsidy hike in all subsidy categories of consumers.
+b) To exempt the following categories of consumers from the tariff
+increase for one year and will compensate to TNPDCL for the
+revenue loss apart from subsidy being extended at present.
+. No tariff hike to the Domestic consumers (LT lA)
+. No tariff hike to the Cottage and Tiny lndustries consumels
+llr 3A(1)l
+. No tariff hike to the Power loom consumers [LT lllA(2X
+. No tariff hike to the lndustries consumers up to 50kW (LT lllB)
+. No hike in energy charges up to 500 units bimonthly for
+Miscellaneous/General purpose consumers (LT V)
+3. I am directed to state that budget provision for the
+
+--- CHUNK 131 ---
+dustries consumers up to 50kW (LT lllB)
+. No hike in energy charges up to 500 units bimonthly for
+Miscellaneous/General purpose consumers (LT V)
+3. I am directed to state that budget provision for the above expenditure has
+been made in the budget for the year 2025-26. Further, the above budget provision
+is in addition to that of the budget provision for subsidy for the tariff already in force
+for the above categories of consumers.
+Yours faithfully,
+1
+for
+Copv to:-
+The Chairman cum Managing Director,
+TNPDCL, Chennai - 600 002.
+The Finance Department,
+Secretariat, Chennai- 600 009.
+Sf/ Sc.
+to t (FAC)
+From
+Dr. Beela Venkatesan, I'A'S',
+Frincipal Secretary to Government'
+To
+The Secretary,
+T;;il Nadu Eiectricity Regulatory Commission'
+Chennai-600 032.
+Lettgr No.5434 h3'2O24' Dated O4'12'2O24
+Energy (D3) DePaftment,
+Secretariatt
+Chennai-9'
+Sub : Energy Department - Electricity - Tariff revision for
+2024-25 - fariff subsidy in Low Tension & HT
+iiriff - tf fariff IA Domestic, LT Tariff IB Hut'
+
+--- CHUNK 132 ---
+ergy (D3) DePaftment,
+Secretariatt
+Chennai-9'
+Sub : Energy Department - Electricity - Tariff revision for
+2024-25 - fariff subsidy in Low Tension & HT
+iiriff - tf fariff IA Domestic, LT Tariff IB Hut' LT
+Tariff Ii c Places or public worship, LT Tariff III
+niil Powerloom, LT Tariff IIIB Industries (ToD
+.niie"t & Network charges), LT Tariff IE Common
+;;;pt;; ir rariri IV Asricu(u1e and Hr rariff II A
+Iiif ittigution - Issuaice of Commitment letter -
+Regarding.
+Ref:1.GoTN,sLr.No.4488l)3tzo24-L,daledo5.o7.zo24
+Z. iuo rqotto'No'6 ot 2A24 dated 15'07'2024
+3.F.No.:r4lLi:lzozj-unusl-II-Part(1).(E.263842)
+dated. 0t.07 -20tu2'xxxx**x
+IamdirectedtostatethattheGovernmentofTamitNaduhasissued
+commitment fetter ln tn. t.ef"renie-iut tit"d under section 108 of the
+Electricity n.1, iOOS towards .o.*itting the-additional subsidy in the
+revision of tariff Joi tn" *nanciJi"u. ioi 4-zaz5 with effect from 1st luty
+2A24."
+2.Incontinuationtotheabove,Hon,bleTamilNaduRegulatory
+Commission nas'i;;;;; a tariff 
+-
+
+--- CHUNK 133 ---
+the-additional subsidy in the
+revision of tariff Joi tn" *nanciJi"u. ioi 4-zaz5 with effect from 1st luty
+2A24."
+2.Incontinuationtotheabove,Hon,bleTamilNaduRegulatory
+Commission nas'i;;;;; a tariff 
+-oJLi sm't'O'r'ro'O of 20,4 dt'1s'07'2024
+with etfect from 01.07.20 24 forint ny iO24'251n tn" reference 2nd cited
+above.
+3.TheMinistryofPower,Governmentoflndiainthelettercited
+under reference'i;' ni, rormuiaii';;; standard operating procedure to
+ensure comptiance of pr"-qru[il; iriteria 
+- 
+unOlr RDSS' additional
+borrowings, etc wherein it is stated as follows:
+(P.r.o)
+Sir,
+!-
+"3.1.1 Tariff determination and Subsidy declaration
+iii. state Government to declare tariff subsidy, as it deems
+appropriate for each of such consumer categories separately on per unit
+basis for energy charges and/or per kW basis as per format 1 enclosed in
+Annexure-I as shown below:-
+Format 1-Full cost tariff determined bv sERC&ERC. (Annual
+submission)
+Consumer
+Category
+Full cost tariff
+determined by
+SERC/JERC
+Subsi
+
+--- CHUNK 134 ---
+ kW basis as per format 1 enclosed in
+Annexure-I as shown below:-
+Format 1-Full cost tariff determined bv sERC&ERC. (Annual
+submission)
+Consumer
+Category
+Full cost tariff
+determined by
+SERC/JERC
+Subsidy announced by
+the State Government
+(Rs/kWh) Gq/kwh or kW)
+(1) (2\ (3)
+Category 1
+Cateqory 2
+Category 3
+4. Therefore the details of per unit subsidy for compliance with Standard
+Operating Procedure guidelines of Ministry of Power is furnished below:-
+Catcgory/
+fariff Slab
+Flxed Charses
+Payablc
+by
+Consumcr
+Subsidy
+payable
+by GoTN
+TNER.C
+approved
+Rate
+Payable
+by
+Consumer
+Subsidy
+payable
+by GoTN
+TNERC
+approvad
+Rate
+(Rs/unit) (Rs/Services IKW lkV Al Honth) (HP/Year)
+Upto 5OO units bimonthly
+Domestic (lA)
+0-100 0.00 4.80 4.80
+0 0 0
+r01-200 2,35 2.45 4.80
+201-300 4.70 0.r0 4.80
+301-400 4.70 0.10 4.80
+401-500 6.30 0.15 6,45
+0-100 0.00 4.80 4.80
+0 0 0
+101-200 4.70 0.10 4.80
+201-300 4.70 0.10 4.80
+301-400 4.70 0.10 4.80
+401-500 6.30 0.15 6.45
+501-600 8.40 0.15 8,5s
+501-800 9.45 0.20 9.65
+801 - 1 0
+
+--- CHUNK 135 ---
+80
+401-500 6.30 0.15 6,45
+0-100 0.00 4.80 4.80
+0 0 0
+101-200 4.70 0.10 4.80
+201-300 4.70 0.10 4.80
+301-400 4.70 0.10 4.80
+401-500 6.30 0.15 6.45
+501-600 8.40 0.15 8,5s
+501-800 9.45 0.20 9.65
+801 - 1 000 10.50 0.20 10.70
+above1000 11.55 0.25 11.80
+Hut (IB) 0.00 9.80 9.80 0 322 322Common Supply
+(IE) 5.75 2.80 8.55 to7 0 107
+Place of worship
+(IIC) 0-120 3,05 3.15 6,20 r07 0 r07
+Powerloom
+rrr A (2)
+0-500 0,00 6.95 6,95 0 L07 L07
+501-750 0.00 8.00 8.00 0 t07 107751- 1000 0.00 8.00 8.00 0 L07 LO7
+1001 -1 500 4.45 3.55 8.00 53.50 53.50 107above1500 5.6s 2.35 8.00 53.50 53.50 t07
+2
+,3.
+.3..
+Aorlculture (IV) 0.00 4.80 4.80 0 3805 3805
+HT Lift Irrigation
+(IIA) 0 7.so 7,50 0 589 589
+With smart
+meter 9.20 10.o0 0 0 0LT Industries (IIIB)
+(l'oD charges during
+peak hours)
+Without
+smart
+meter
+8.00 2.00 10.00 0 0 0
+LT Industries (IIIB)
+(Network Charges)
+0.79
+5 0.795 1.59 0 o 0
+Note : Flxed charges for Hut in services/Month, AgricultureHPlyear, HT Lift irrigation in
+lyll!{9nt!,Others in kllrfl Mcnth ---
+
+--- CHUNK 136 ---
+.00 0 0 0
+LT Industries (IIIB)
+(Network Charges)
+0.79
+5 0.795 1.59 0 o 0
+Note : Flxed charges for Hut in services/Month, AgricultureHPlyear, HT Lift irrigation in
+lyll!{9nt!,Others in kllrfl Mcnth --- -
+5. The Government also commit the following:-
+a. To pay the unitwise subsidy declared in the above table for F/
+2024-25
+b. 'To pay the incremental subsidy due to increase in tariff as per
+CPI for the ensuing years of MYT period tifl Fy 2026-27 as
+stipulated in paras 6.2 (m) and 6.1 (6.1.1.13) of the tariff order
+no.7 of 2022 dt.09.09.2A22 which is reproduced below:
+"6,7.1.13 The appticable tariff for ensuing years of control period
+shall be as per prevailing tariff x (l+(CPI of April of respective
+financial year = CPI of April of previous financial year)/CPI of April of previous financial year) or 6oh whichever is lower wittt
+effect from 7't July of respective financial year."
+c. To continue this commitment till communication of any changes
+if any in the policy directive.
+Yours faithful
+
+--- CHUNK 137 ---
+ear) or 6oh whichever is lower wittt
+effect from 7't July of respective financial year."
+c. To continue this commitment till communication of any changes
+if any in the policy directive.
+Yours faithful
+P,.i&'for ry to Government.
+Copy to
+The Chief Minister's Office, Chennai - 600 009.
+The Special Personal Assistant to the Hon'ble Minister (Finance
+and Environment Climate Change), Chennai - 600 009.
+The Personal Assistant to the Hon'ble Minister (Electricity,
+Prohibition and Excise), Chennai - 600 009.
+The Addltional Chief Secretary / Chairman cum Managing Director,
+Tamil Nadu Generation and Distribution Corporation Limited,
+Chennai - 500 002.
+The Finance Department, Chennai - 600 009.
+sF/sc.
+0.80
+
